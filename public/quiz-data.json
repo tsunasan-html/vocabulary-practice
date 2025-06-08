@@ -1,0 +1,551 @@
+[
+  {
+    "word": "experience",
+    "choices": [
+      "貸出",
+      "取引",
+      "支出",
+      "経験"
+    ],
+    "answer": "経験",
+    "example": "I have five years of work experience."
+  },
+  {
+    "word": "shipment",
+    "choices": [
+      "出荷",
+      "取引",
+      "紹介状",
+      "査定"
+    ],
+    "answer": "出荷",
+    "example": "The shipment will arrive tomorrow."
+  },
+  {
+    "word": "profit",
+    "choices": [
+      "旅行",
+      "契約書",
+      "診察",
+      "利益"
+    ],
+    "answer": "利益",
+    "example": "Our company made a large profit this year."
+  },
+  {
+    "word": "payment",
+    "choices": [
+      "契約書",
+      "支払い",
+      "発送",
+      "報告書"
+    ],
+    "answer": "支払い",
+    "example": "The payment was completed successfully."
+  },
+  {
+    "word": "responsibility",
+    "choices": [
+      "勤務",
+      "責任",
+      "契約書",
+      "案内"
+    ],
+    "answer": "責任",
+    "example": "He has a lot of responsibility at work."
+  },
+  {
+    "word": "advertisement",
+    "choices": [
+      "査定",
+      "広告",
+      "記録",
+      "登録"
+    ],
+    "answer": "広告",
+    "example": "I saw the job advertisement online."
+  },
+  {
+    "word": "appointment",
+    "choices": [
+      "再送",
+      "予約",
+      "書類",
+      "入力"
+    ],
+    "answer": "予約",
+    "example": "I have an appointment at 3 p.m."
+  },
+  {
+    "word": "salary",
+    "choices": [
+      "登録",
+      "書類",
+      "発送",
+      "給料"
+    ],
+    "answer": "給料",
+    "example": "She receives a high salary."
+  },
+  {
+    "word": "supplier",
+    "choices": [
+      "供給業者",
+      "参加",
+      "取引",
+      "入力"
+    ],
+    "answer": "供給業者",
+    "example": "We need a new supplier for raw materials."
+  },
+  {
+    "word": "refund",
+    "choices": [
+      "調整",
+      "登録",
+      "取引",
+      "返金"
+    ],
+    "answer": "返金",
+    "example": "They gave me a full refund."
+  },
+  {
+    "word": "retail",
+    "choices": [
+      "紹介状",
+      "調整",
+      "小売",
+      "参加"
+    ],
+    "answer": "小売",
+    "example": "He works in retail sales."
+  },
+  {
+    "word": "invoice",
+    "choices": [
+      "診察",
+      "案内",
+      "請求書",
+      "紹介状"
+    ],
+    "answer": "請求書",
+    "example": "We received the invoice last week."
+  },
+  {
+    "word": "interview",
+    "choices": [
+      "再送",
+      "報告書",
+      "面接",
+      "取引"
+    ],
+    "answer": "面接",
+    "example": "She has a job interview today."
+  },
+  {
+    "word": "delivery",
+    "choices": [
+      "参加",
+      "報告書",
+      "診察",
+      "配達"
+    ],
+    "answer": "配達",
+    "example": "The delivery was late."
+  },
+  {
+    "word": "manager",
+    "choices": [
+      "紹介状",
+      "管理者",
+      "診察",
+      "契約書"
+    ],
+    "answer": "管理者",
+    "example": "The manager approved my vacation."
+  },
+  {
+    "word": "transportation",
+    "choices": [
+      "発送",
+      "入力",
+      "支出",
+      "交通機関"
+    ],
+    "answer": "交通機関",
+    "example": "Public transportation is convenient."
+  },
+  {
+    "word": "contract",
+    "choices": [
+      "調整",
+      "取引",
+      "契約",
+      "旅行"
+    ],
+    "answer": "契約",
+    "example": "He signed the contract yesterday."
+  },
+  {
+    "word": "order",
+    "choices": [
+      "書類",
+      "注文",
+      "支出",
+      "紹介状"
+    ],
+    "answer": "注文",
+    "example": "I placed an order for a new laptop."
+  },
+  {
+    "word": "proposal",
+    "choices": [
+      "取引",
+      "登録",
+      "注文",
+      "提案"
+    ],
+    "answer": "提案",
+    "example": "He made a proposal at the meeting."
+  },
+  {
+    "word": "employee",
+    "choices": [
+      "書類",
+      "入力",
+      "案内",
+      "従業員"
+    ],
+    "answer": "従業員",
+    "example": "The company has many employees."
+  },
+  {
+    "word": "requirement",
+    "choices": [
+      "要件",
+      "紹介状",
+      "報告書",
+      "取引"
+    ],
+    "answer": "要件",
+    "example": "This is a job requirement."
+  },
+  {
+    "word": "receipt",
+    "choices": [
+      "領収書",
+      "注文",
+      "取引",
+      "入力"
+    ],
+    "answer": "領収書",
+    "example": "Can I get a receipt?"
+  },
+  {
+    "word": "product",
+    "choices": [
+      "発送",
+      "製品",
+      "報告書",
+      "取引"
+    ],
+    "answer": "製品",
+    "example": "This product is very popular."
+  },
+  {
+    "word": "notice",
+    "choices": [
+      "業務",
+      "通知",
+      "紹介状",
+      "支出"
+    ],
+    "answer": "通知",
+    "example": "I received a notice in the mail."
+  },
+  {
+    "word": "conference",
+    "choices": [
+      "紹介状",
+      "取引",
+      "再送",
+      "会議"
+    ],
+    "answer": "会議",
+    "example": "The conference will be held in Tokyo."
+  },
+  {
+    "word": "estimate",
+    "choices": [
+      "見積もり",
+      "支出",
+      "入力",
+      "調整"
+    ],
+    "answer": "見積もり",
+    "example": "The estimate was higher than expected."
+  },
+  {
+    "word": "discount",
+    "choices": [
+      "注文",
+      "割引",
+      "取引",
+      "報告書"
+    ],
+    "answer": "割引",
+    "example": "We are offering a discount this week."
+  },
+  {
+    "word": "promotion",
+    "choices": [
+      "再送",
+      "貸出",
+      "契約書",
+      "昇進"
+    ],
+    "answer": "昇進",
+    "example": "She got a promotion last month."
+  },
+  {
+    "word": "survey",
+    "choices": [
+      "紹介状",
+      "調査",
+      "業務",
+      "契約書"
+    ],
+    "answer": "調査",
+    "example": "Please complete this survey."
+  },
+  {
+    "word": "schedule",
+    "choices": [
+      "診察",
+      "旅行",
+      "予定",
+      "書類"
+    ],
+    "answer": "予定",
+    "example": "My schedule is very tight."
+  },
+  {
+    "word": "deadline",
+    "choices": [
+      "報告書",
+      "取引",
+      "締め切り",
+      "参加"
+    ],
+    "answer": "締め切り",
+    "example": "The deadline is next Monday."
+  },
+  {
+    "word": "equipment",
+    "choices": [
+      "設備",
+      "入力",
+      "書類",
+      "勤務"
+    ],
+    "answer": "設備",
+    "example": "The equipment is very expensive."
+  },
+  {
+    "word": "offer",
+    "choices": [
+      "保険",
+      "貸出",
+      "査定",
+      "申し出"
+    ],
+    "answer": "申し出",
+    "example": "They made a job offer."
+  },
+  {
+    "word": "colleague",
+    "choices": [
+      "再送",
+      "査定",
+      "受注",
+      "同僚"
+    ],
+    "answer": "同僚",
+    "example": "My colleague helped me with the project."
+  },
+  {
+    "word": "candidate",
+    "choices": [
+      "候補者",
+      "参加",
+      "出張",
+      "取引"
+    ],
+    "answer": "候補者",
+    "example": "She is a strong candidate for the job."
+  },
+  {
+    "word": "application",
+    "choices": [
+      "記録",
+      "査定",
+      "申請書",
+      "業務"
+    ],
+    "answer": "申請書",
+    "example": "He submitted a job application."
+  },
+  {
+    "word": "project",
+    "choices": [
+      "計画",
+      "取引",
+      "記録",
+      "保険"
+    ],
+    "answer": "計画"
+  },
+  {
+    "word": "training",
+    "choices": [
+      "診察",
+      "入力",
+      "研修",
+      "旅行"
+    ],
+    "answer": "研修",
+    "example": "We provide training for new employees."
+  },
+  {
+    "word": "meeting",
+    "choices": [
+      "査定",
+      "調整",
+      "記録",
+      "会議"
+    ],
+    "answer": "会議",
+    "example": "We have a meeting at 2 p.m."
+  },
+  {
+    "word": "signature",
+    "choices": [
+      "業務",
+      "旅行",
+      "署名",
+      "注文"
+    ],
+    "answer": "署名",
+    "example": "Please add your signature here."
+  },
+  {
+    "word": "budget",
+    "choices": [
+      "案内",
+      "予算",
+      "支出",
+      "調整"
+    ],
+    "answer": "予算",
+    "example": "We need to reduce our budget."
+  },
+  {
+    "word": "report",
+    "choices": [
+      "報告書",
+      "受注",
+      "記録",
+      "診察"
+    ],
+    "answer": "報告書",
+    "example": "He submitted the report on time."
+  },
+  {
+    "word": "reservation",
+    "choices": [
+      "貸出",
+      "勤務",
+      "予約",
+      "保険"
+    ],
+    "answer": "予約",
+    "example": "I made a reservation at the hotel."
+  },
+  {
+    "word": "fee",
+    "choices": [
+      "査定",
+      "保険",
+      "業務",
+      "料金"
+    ],
+    "answer": "料金",
+    "example": "There is an extra fee for this service."
+  },
+  {
+    "word": "task",
+    "choices": [
+      "仕事",
+      "支出",
+      "案内",
+      "記録"
+    ],
+    "answer": "仕事",
+    "example": "I finished the task before the deadline."
+  },
+  {
+    "word": "item",
+    "choices": [
+      "勤務",
+      "業務",
+      "契約書",
+      "項目"
+    ],
+    "answer": "項目",
+    "example": "This item is out of stock."
+  },
+  {
+    "word": "position",
+    "choices": [
+      "職位",
+      "業務",
+      "査定",
+      "書類"
+    ],
+    "answer": "職位",
+    "example": "She applied for the manager position."
+  },
+  {
+    "word": "customer",
+    "choices": [
+      "注文",
+      "顧客",
+      "保険",
+      "登録"
+    ],
+    "answer": "顧客",
+    "example": "The customer is always right."
+  },
+  {
+    "word": "department",
+    "choices": [
+      "診察",
+      "登録",
+      "部門",
+      "再送"
+    ],
+    "answer": "部門",
+    "example": "She works in the sales department."
+  },
+  {
+    "word": "goods",
+    "choices": [
+      "商品",
+      "案内",
+      "発送",
+      "旅行"
+    ],
+    "answer": "商品",
+    "example": "The goods were damaged."
+  }
+]

@@ -1,0 +1,46 @@
+
+.modal-overlay {
+  position: fixed;
+  top: 0; left: 0;
+  width: 100vw; height: 100vh;
+  background: rgba(0, 0, 0, 0.5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 999;
+}
+
+.modal-box {
+  background: #fff;
+  padding: 2rem;
+  border-radius: 10px;
+  width: 90%;
+  max-width: 400px;
+  text-align: left;
+}
+
+.modal-box h2 {
+  margin-bottom: .8rem;
+}
+p {
+  line-height: 1.8;
+}
+
+.button {
+  text-align: center;
+}
+.button button {
+  display: inline-block;
+  margin-top: 2rem;
+  padding: 0.6rem 1.2rem;
+  background-color: #4f46e5;
+  color: white;
+  text-decoration: none;
+  border-radius: 6px;
+  transition: background-color 0.2s ease-in-out;
+  cursor: pointer;
+}
+
+.button button:hover {
+  background-color: #3730a3;
+}

@@ -44,3 +44,15 @@ p {
 .button button:hover {
   background-color: #3730a3;
 }
+
+@media only screen and (max-width: 767px) {
+  .button button {
+    font-size: 15px;
+    padding: 0.8rem 1.4rem;
+  }
+  .modal-box h2 {
+    font-size: 22px;
+    margin-bottom: .6rem;
+  }
+}
+

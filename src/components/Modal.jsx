@@ -32,7 +32,7 @@ function Modal({ modalContent, onClose }) {
         <p><strong>例文:</strong><br />{modalContent.example}</p>
 
         <div className="button">
-          <button onClick={onClose}>次へ</button>
+          <button onClick={onClose}>The next question</button>
         </div>
       </div>
     </div>

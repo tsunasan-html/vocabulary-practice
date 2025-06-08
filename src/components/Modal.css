@@ -54,5 +54,8 @@ p {
     font-size: 22px;
     margin-bottom: .6rem;
   }
+  .button button {
+    margin-top: 1.2rem;
+  }
 }
 

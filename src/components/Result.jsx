@@ -25,7 +25,7 @@ function Result() {
             {correctAnswers.length > 0 ? (
               <ul>
                 {correctAnswers.map((item, idx) => (
-                  <li key={idx} style={{ marginBottom: '1em' }}>
+                  <li key={idx}>
                     <div><strong>{item.word}</strong></div>
                     <div>
                       <span style={{ fontWeight: 'bold', color: 'green' }}>Your answer:</span>{' '}

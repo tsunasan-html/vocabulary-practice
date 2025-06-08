@@ -3,7 +3,6 @@
 }
 .result-page {
   width: 100%;
- 
   margin: 3rem auto;
   padding: 2rem;
   background: #f9f9f9;
@@ -12,6 +11,11 @@
   text-align: center;
   font-family: 'Noto Sans JP', sans-serif;
   line-height: 1.8;
+}
+@media only screen and (max-width: 767px) {
+  .result-page {
+    padding: 2rem 16px;
+  }
 }
 
 .result-page h2 {
@@ -65,14 +69,12 @@
   background-color: #f0f0f0;
 }
 
-.block:nth-of-type(3) {
-  background-color: #f0f0f0;
-}
-
 .block:nth-of-type(1) ul li {
   margin: 1rem auto;
 }
 .block:nth-of-type(2) ul li {
   margin: 1rem auto;
 }
+
+
 

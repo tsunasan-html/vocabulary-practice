@@ -72,7 +72,6 @@ function Quiz() {
     setModalContent(message);
     setShowModal(true);
 
-    // 履歴に追加
     setHistory(prev => [...prev, message]);
   };
 
@@ -101,7 +100,8 @@ function Quiz() {
     utterance.lang = 'en-US';
 
     const voices = speechSynthesis.getVoices();
-    const preferredVoices = ['Google US English', 'Samantha', 'Karen', 'Victoria', 'Moira'];
+    const preferredVoices =
+      ['Google US English', 'Samantha', 'Karen', 'Victoria', 'Moira'];
 
     const femaleVoice = voices.find(
       (voice) =>

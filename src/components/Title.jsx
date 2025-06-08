@@ -1,10 +1,11 @@
 import React from 'react'
+import "./Title.css";
 
 const Title = () => {
   return (
     <div className='title'>
       <p>
-        Silver Phrases: A TOEIC Vocabulary Book
+        Silver Phrases: <span>A TOEIC Vocabulary Book</span>
       </p>
     </div>
   )

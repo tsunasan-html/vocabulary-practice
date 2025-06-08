@@ -82,6 +82,21 @@
   background-color: #fff;
 }
 
+@media only screen and (max-width: 767px) {
+  .inner-block {
+    width: calc(100% - 36px);
+  }
+  .quiz-question {
+    margin-bottom: 1rem;
+  }
+  .quiz-button {
+   margin: .2rem 0;
+  }
+  .quiz-content {
+    padding: 2rem 1.2rem;
+  }
+}
+
 .quiz-answer li:nth-child(1)::after {
   content: "1";
 }

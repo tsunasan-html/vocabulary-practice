@@ -538,17 +538,6 @@
     "example": "She works in the sales department."
   },
   {
-    "word": "goods",
-    "choices": [
-      "商品",
-      "案内",
-      "発送",
-      "旅行"
-    ],
-    "answer": "商品",
-    "example": "The goods were damaged."
-  },
-  {
     "word": "announcement",
     "choices": [
       "指導",
@@ -1220,17 +1209,6 @@
     "example": "This is an example sentence for insurance."
   },
   {
-    "word": "interest",
-    "choices": [
-      "評価",
-      "利息",
-      "請求書",
-      "調整"
-    ],
-    "answer": "利息",
-    "example": "This is an example sentence for interest."
-  },
-  {
     "word": "liability",
     "choices": [
       "評価",
@@ -1814,17 +1792,6 @@
     "example": "This is an example sentence for flexibility."
   },
   {
-    "word": "fulfillment",
-    "choices": [
-      "予測",
-      "保険",
-      "履行",
-      "在庫"
-    ],
-    "answer": "履行",
-    "example": "This is an example sentence for fulfillment."
-  },
-  {
     "word": "grant",
     "choices": [
       "助成金",
@@ -2054,17 +2021,6 @@
     ],
     "answer": "補助金",
     "example": "This is an example sentence for subsidy."
-  },
-  {
-    "word": "surplus",
-    "choices": [
-      "黒字",
-      "割当",
-      "提携",
-      "目論見書"
-    ],
-    "answer": "黒字",
-    "example": "This is an example sentence for surplus."
   },
   {
     "word": "tender",

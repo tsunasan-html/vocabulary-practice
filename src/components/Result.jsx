@@ -72,7 +72,7 @@ function Result() {
             </div>
           </div>
 
-          <a href="/">TOP</a>
+          <a href="/">Back to Home</a>
         </div>
       </main>
     </div>

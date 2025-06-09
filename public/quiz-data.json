@@ -277,12 +277,12 @@
   {
     "word": "estimate",
     "choices": [
-      "見積もり",
+      "見積",
       "支出",
       "入力",
       "調整"
     ],
-    "answer": "見積もり",
+    "answer": "見積",
     "example": "The estimate was higher than expected."
   },
   {
@@ -389,10 +389,10 @@
     "choices": [
       "記録",
       "査定",
-      "申請書",
+      "申請",
       "業務"
     ],
-    "answer": "申請書",
+    "answer": "申請",
     "example": "He submitted a job application."
   },
   {
@@ -452,12 +452,12 @@
   {
     "word": "report",
     "choices": [
-      "報告書",
+      "報告",
       "受注",
       "記録",
       "診察"
     ],
-    "answer": "報告書",
+    "answer": "報告",
     "example": "He submitted the report on time."
   },
   {
@@ -547,5 +547,2018 @@
     ],
     "answer": "商品",
     "example": "The goods were damaged."
+  },
+  {
+    "word": "announcement",
+    "choices": [
+      "指導",
+      "在庫",
+      "発表",
+      "研修"
+    ],
+    "answer": "発表",
+    "example": "There was an important announcement today."
+  },
+  {
+    "word": "negotiation",
+    "choices": [
+      "交渉",
+      "契約",
+      "報告",
+      "出張"
+    ],
+    "answer": "交渉",
+    "example": "The negotiation went smoothly."
+  },
+  {
+    "word": "supervisor",
+    "choices": [
+      "契約",
+      "合併",
+      "監督者",
+      "注文"
+    ],
+    "answer": "監督者",
+    "example": "Talk to your supervisor about the issue."
+  },
+  {
+    "word": "inventory",
+    "choices": [
+      "広告",
+      "合併",
+      "研修",
+      "在庫"
+    ],
+    "answer": "在庫",
+    "example": "Check the inventory before ordering."
+  },
+  {
+    "word": "facility",
+    "choices": [
+      "保守",
+      "評価",
+      "施設",
+      "顧客"
+    ],
+    "answer": "施設",
+    "example": "The facility was built last year."
+  },
+  {
+    "word": "recruitment",
+    "choices": [
+      "契約",
+      "採用",
+      "合併",
+      "交通"
+    ],
+    "answer": "採用",
+    "example": "Recruitment for the new position is ongoing."
+  },
+  {
+    "word": "evaluation",
+    "choices": [
+      "研修",
+      "給与",
+      "評価",
+      "出張"
+    ],
+    "answer": "評価",
+    "example": "Employee evaluation happens every six months."
+  },
+  {
+    "word": "maintenance",
+    "choices": [
+      "案内",
+      "保守",
+      "保守",
+      "契約"
+    ],
+    "answer": "保守",
+    "example": "Regular maintenance is essential."
+  },
+  {
+    "word": "merger",
+    "choices": [
+      "評価",
+      "保守",
+      "合併",
+      "出張"
+    ],
+    "answer": "合併",
+    "example": "The merger was announced yesterday."
+  },
+  {
+    "word": "confirmation",
+    "choices": [
+      "交通機関",
+      "配達",
+      "広告",
+      "確認"
+    ],
+    "answer": "確認",
+    "example": "This is an example sentence for confirmation."
+  },
+  {
+    "word": "authorization",
+    "choices": [
+      "供給業者",
+      "料金",
+      "予約",
+      "認定"
+    ],
+    "answer": "認定",
+    "example": "This is an example sentence for authorization."
+  },
+  {
+    "word": "instruction",
+    "choices": [
+      "指示",
+      "予約",
+      "同僚",
+      "顧客"
+    ],
+    "answer": "指示",
+    "example": "This is an example sentence for instruction."
+  },
+  {
+    "word": "preparation",
+    "choices": [
+      "申請書",
+      "準備",
+      "顧客",
+      "出荷"
+    ],
+    "answer": "準備",
+    "example": "This is an example sentence for preparation."
+  },
+  {
+    "word": "adjustment",
+    "choices": [
+      "調整",
+      "会議",
+      "請求書",
+      "候補者"
+    ],
+    "answer": "調整",
+    "example": "This is an example sentence for adjustment."
+  },
+  {
+    "word": "attendance",
+    "choices": [
+      "経験",
+      "出席",
+      "返金",
+      "昇進"
+    ],
+    "answer": "出席",
+    "example": "This is an example sentence for attendance."
+  },
+  {
+    "word": "committee",
+    "choices": [
+      "返金",
+      "領収書",
+      "申請書",
+      "委員会"
+    ],
+    "answer": "委員会",
+    "example": "This is an example sentence for committee."
+  },
+  {
+    "word": "consultation",
+    "choices": [
+      "小売",
+      "相談",
+      "通知",
+      "供給業者"
+    ],
+    "answer": "相談",
+    "example": "This is an example sentence for consultation."
+  },
+  {
+    "word": "distribution",
+    "choices": [
+      "責任",
+      "管理者",
+      "料金",
+      "配布"
+    ],
+    "answer": "配布",
+    "example": "This is an example sentence for distribution."
+  },
+  {
+    "word": "investment",
+    "choices": [
+      "報告書",
+      "項目",
+      "投資",
+      "締め切り"
+    ],
+    "answer": "投資",
+    "example": "This is an example sentence for investment."
+  },
+  {
+    "word": "manufacturer",
+    "choices": [
+      "製造業者",
+      "締め切り",
+      "小売",
+      "契約"
+    ],
+    "answer": "製造業者",
+    "example": "This is an example sentence for manufacturer."
+  },
+  {
+    "word": "approval",
+    "choices": [
+      "交渉",
+      "顧客",
+      "承認",
+      "利益"
+    ],
+    "answer": "承認",
+    "example": "The approval was completed successfully."
+  },
+  {
+    "word": "benefit",
+    "choices": [
+      "署名",
+      "利益",
+      "締め切り",
+      "経験"
+    ],
+    "answer": "利益",
+    "example": "The benefit was completed successfully."
+  },
+  {
+    "word": "contractor",
+    "choices": [
+      "請負業者",
+      "製造業者",
+      "契約",
+      "延長"
+    ],
+    "answer": "請負業者",
+    "example": "The contractor was completed successfully."
+  },
+  {
+    "word": "feedback",
+    "choices": [
+      "職位",
+      "感想",
+      "準備",
+      "申請"
+    ],
+    "answer": "感想",
+    "example": "The feedback was completed successfully."
+  },
+  {
+    "word": "guideline",
+    "choices": [
+      "指針",
+      "顧客",
+      "返金",
+      "面接"
+    ],
+    "answer": "指針",
+    "example": "The guideline was completed successfully."
+  },
+  {
+    "word": "headquarters",
+    "choices": [
+      "小売",
+      "交通機関",
+      "申し出",
+      "本社"
+    ],
+    "answer": "本社",
+    "example": "The headquarters was completed successfully."
+  },
+  {
+    "word": "inspection",
+    "choices": [
+      "商品",
+      "検査",
+      "相談",
+      "経験"
+    ],
+    "answer": "検査",
+    "example": "The inspection was completed successfully."
+  },
+  {
+    "word": "logistics",
+    "choices": [
+      "顧客",
+      "商品",
+      "物流",
+      "供給業者"
+    ],
+    "answer": "物流",
+    "example": "The logistics was completed successfully."
+  },
+  {
+    "word": "management",
+    "choices": [
+      "指示",
+      "管理",
+      "延長",
+      "申し出"
+    ],
+    "answer": "管理",
+    "example": "The management was completed successfully."
+  },
+  {
+    "word": "objective",
+    "choices": [
+      "確認",
+      "委員会",
+      "注文",
+      "目標"
+    ],
+    "answer": "目標",
+    "example": "The objective was completed successfully."
+  },
+  {
+    "word": "policy",
+    "choices": [
+      "確認",
+      "製品",
+      "広告",
+      "方針"
+    ],
+    "answer": "方針",
+    "example": "The policy was completed successfully."
+  },
+  {
+    "word": "qualification",
+    "choices": [
+      "資格",
+      "面接",
+      "利益",
+      "延長"
+    ],
+    "answer": "資格",
+    "example": "The qualification was completed successfully."
+  },
+  {
+    "word": "regulation",
+    "choices": [
+      "保守",
+      "準備",
+      "規則",
+      "報告書"
+    ],
+    "answer": "規則",
+    "example": "The regulation was completed successfully."
+  },
+  {
+    "word": "strategy",
+    "choices": [
+      "職位",
+      "戦略",
+      "在庫",
+      "供給業者"
+    ],
+    "answer": "戦略",
+    "example": "The strategy was completed successfully."
+  },
+  {
+    "word": "transaction",
+    "choices": [
+      "供給業者",
+      "取引",
+      "指示",
+      "申請書"
+    ],
+    "answer": "取引",
+    "example": "The transaction was completed successfully."
+  },
+  {
+    "word": "wholesale",
+    "choices": [
+      "在庫",
+      "契約",
+      "卸売",
+      "合併"
+    ],
+    "answer": "卸売",
+    "example": "The wholesale was completed successfully."
+  },
+  {
+    "word": "accounting",
+    "choices": [
+      "会計",
+      "発表",
+      "委員会",
+      "配布"
+    ],
+    "answer": "会計",
+    "example": "This is an example sentence for accounting."
+  },
+  {
+    "word": "agenda",
+    "choices": [
+      "取引",
+      "申請書",
+      "議題",
+      "管理者"
+    ],
+    "answer": "議題",
+    "example": "This is an example sentence for agenda."
+  },
+  {
+    "word": "asset",
+    "choices": [
+      "資産",
+      "昇進",
+      "検査",
+      "出席"
+    ],
+    "answer": "資産",
+    "example": "This is an example sentence for asset."
+  },
+  {
+    "word": "auditor",
+    "choices": [
+      "会議",
+      "仕事",
+      "部門",
+      "監査人"
+    ],
+    "answer": "監査人",
+    "example": "This is an example sentence for auditor."
+  },
+  {
+    "word": "branch",
+    "choices": [
+      "責任",
+      "支店",
+      "交渉",
+      "目標"
+    ],
+    "answer": "支店",
+    "example": "This is an example sentence for branch."
+  },
+  {
+    "word": "capital",
+    "choices": [
+      "提案",
+      "在庫",
+      "目標",
+      "資本"
+    ],
+    "answer": "資本",
+    "example": "This is an example sentence for capital."
+  },
+  {
+    "word": "client",
+    "choices": [
+      "資格",
+      "会議",
+      "目標",
+      "顧客"
+    ],
+    "answer": "顧客",
+    "example": "This is an example sentence for client."
+  },
+  {
+    "word": "collaboration",
+    "choices": [
+      "要件",
+      "部門",
+      "領収書",
+      "協力"
+    ],
+    "answer": "協力",
+    "example": "This is an example sentence for collaboration."
+  },
+  {
+    "word": "commerce",
+    "choices": [
+      "評価",
+      "設備",
+      "商業",
+      "相談"
+    ],
+    "answer": "商業",
+    "example": "This is an example sentence for commerce."
+  },
+  {
+    "word": "compliance",
+    "choices": [
+      "管理",
+      "任務",
+      "遵守",
+      "広告"
+    ],
+    "answer": "遵守",
+    "example": "This is an example sentence for compliance."
+  },
+  {
+    "word": "conclusion",
+    "choices": [
+      "請負業者",
+      "予約",
+      "管理",
+      "結論"
+    ],
+    "answer": "結論",
+    "example": "This is an example sentence for conclusion."
+  },
+  {
+    "word": "creditor",
+    "choices": [
+      "債権者",
+      "昇進",
+      "評価",
+      "卸売"
+    ],
+    "answer": "債権者",
+    "example": "This is an example sentence for creditor."
+  },
+  {
+    "word": "debt",
+    "choices": [
+      "借金",
+      "設備",
+      "申し出",
+      "配達"
+    ],
+    "answer": "借金",
+    "example": "This is an example sentence for debt."
+  },
+  {
+    "word": "deduction",
+    "choices": [
+      "控除",
+      "出席",
+      "資格",
+      "認可"
+    ],
+    "answer": "控除",
+    "example": "This is an example sentence for deduction."
+  },
+  {
+    "word": "deficit",
+    "choices": [
+      "研修",
+      "物流",
+      "赤字",
+      "配布"
+    ],
+    "answer": "赤字",
+    "example": "This is an example sentence for deficit."
+  },
+  {
+    "word": "delegate",
+    "choices": [
+      "要件",
+      "代表者",
+      "調査",
+      "製造業者"
+    ],
+    "answer": "代表者",
+    "example": "This is an example sentence for delegate."
+  },
+  {
+    "word": "depreciation",
+    "choices": [
+      "許可",
+      "方針",
+      "減価償却",
+      "配布"
+    ],
+    "answer": "減価償却",
+    "example": "This is an example sentence for depreciation."
+  },
+  {
+    "word": "economy",
+    "choices": [
+      "経済",
+      "広告",
+      "顧客",
+      "配達"
+    ],
+    "answer": "経済",
+    "example": "This is an example sentence for economy."
+  },
+  {
+    "word": "endorsement",
+    "choices": [
+      "承認",
+      "申請",
+      "昇進",
+      "予定"
+    ],
+    "answer": "承認",
+    "example": "This is an example sentence for endorsement."
+  },
+  {
+    "word": "entrepreneur",
+    "choices": [
+      "物流",
+      "管理者",
+      "報告書",
+      "起業家"
+    ],
+    "answer": "起業家",
+    "example": "This is an example sentence for entrepreneur."
+  },
+  {
+    "word": "expenditure",
+    "choices": [
+      "支出",
+      "配布",
+      "規則",
+      "締め切り"
+    ],
+    "answer": "支出",
+    "example": "This is an example sentence for expenditure."
+  },
+  {
+    "word": "forecast",
+    "choices": [
+      "予測",
+      "申請",
+      "延長",
+      "小売"
+    ],
+    "answer": "予測",
+    "example": "This is an example sentence for forecast."
+  },
+  {
+    "word": "fund",
+    "choices": [
+      "規則",
+      "申し出",
+      "資金",
+      "注文"
+    ],
+    "answer": "資金",
+    "example": "This is an example sentence for fund."
+  },
+  {
+    "word": "incentive",
+    "choices": [
+      "同僚",
+      "動機",
+      "取引",
+      "規則"
+    ],
+    "answer": "動機",
+    "example": "This is an example sentence for incentive."
+  },
+  {
+    "word": "insurance",
+    "choices": [
+      "投資",
+      "指針",
+      "研修",
+      "保険"
+    ],
+    "answer": "保険",
+    "example": "This is an example sentence for insurance."
+  },
+  {
+    "word": "interest",
+    "choices": [
+      "評価",
+      "利息",
+      "請求書",
+      "調整"
+    ],
+    "answer": "利息",
+    "example": "This is an example sentence for interest."
+  },
+  {
+    "word": "liability",
+    "choices": [
+      "評価",
+      "負債",
+      "投資",
+      "給料"
+    ],
+    "answer": "負債",
+    "example": "This is an example sentence for liability."
+  },
+  {
+    "word": "partnership",
+    "choices": [
+      "規則",
+      "提携",
+      "認可",
+      "支払い"
+    ],
+    "answer": "提携",
+    "example": "This is an example sentence for partnership."
+  },
+  {
+    "word": "penalty",
+    "choices": [
+      "委員会",
+      "申し出",
+      "採用",
+      "罰金"
+    ],
+    "answer": "罰金",
+    "example": "This is an example sentence for penalty."
+  },
+  {
+    "word": "procurement",
+    "choices": [
+      "調達",
+      "調整",
+      "資格",
+      "請求書"
+    ],
+    "answer": "調達",
+    "example": "This is an example sentence for procurement."
+  },
+  {
+    "word": "productivity",
+    "choices": [
+      "生産性",
+      "フィードバック",
+      "管理者",
+      "同僚"
+    ],
+    "answer": "生産性",
+    "example": "This is an example sentence for productivity."
+  },
+  {
+    "word": "prospect",
+    "choices": [
+      "見込み",
+      "商品",
+      "承認",
+      "小売"
+    ],
+    "answer": "見込み",
+    "example": "This is an example sentence for prospect."
+  },
+  {
+    "word": "revenue",
+    "choices": [
+      "見積もり",
+      "採用",
+      "請負業者",
+      "収益"
+    ],
+    "answer": "収益",
+    "example": "This is an example sentence for revenue."
+  },
+  {
+    "word": "shareholder",
+    "choices": [
+      "調整",
+      "交通機関",
+      "検査",
+      "株主"
+    ],
+    "answer": "株主",
+    "example": "This is an example sentence for shareholder."
+  },
+  {
+    "word": "subsidiary",
+    "choices": [
+      "子会社",
+      "製品",
+      "目標",
+      "請負業者"
+    ],
+    "answer": "子会社",
+    "example": "This is an example sentence for subsidiary."
+  },
+  {
+    "word": "taxation",
+    "choices": [
+      "延長",
+      "給料",
+      "製造業者",
+      "課税"
+    ],
+    "answer": "課税",
+    "example": "This is an example sentence for taxation."
+  },
+  {
+    "word": "valuation",
+    "choices": [
+      "評価",
+      "要件",
+      "評価",
+      "報告書"
+    ],
+    "answer": "評価",
+    "example": "This is an example sentence for valuation."
+  },
+  {
+    "word": "warehouse",
+    "choices": [
+      "戦略",
+      "供給業者",
+      "提案",
+      "倉庫"
+    ],
+    "answer": "倉庫",
+    "example": "This is an example sentence for warehouse."
+  },
+  {
+    "word": "workforce",
+    "choices": [
+      "任務",
+      "労働力",
+      "項目",
+      "提案"
+    ],
+    "answer": "労働力",
+    "example": "This is an example sentence for workforce."
+  },
+  {
+    "word": "cancellation",
+    "choices": [
+      "方針",
+      "解除",
+      "終了",
+      "昇進"
+    ],
+    "answer": "解除",
+    "example": "This is an example sentence for cancellation."
+  },
+  {
+    "word": "efficiency",
+    "choices": [
+      "部門",
+      "効率",
+      "署名",
+      "計画"
+    ],
+    "answer": "効率",
+    "example": "This is an example sentence for efficiency."
+  },
+  {
+    "word": "guarantee",
+    "choices": [
+      "調整",
+      "保証",
+      "指針",
+      "交渉"
+    ],
+    "answer": "保証",
+    "example": "This is an example sentence for guarantee."
+  },
+  {
+    "word": "hierarchy",
+    "choices": [
+      "注文",
+      "階層",
+      "交渉",
+      "代表者"
+    ],
+    "answer": "階層",
+    "example": "This is an example sentence for hierarchy."
+  },
+  {
+    "word": "implementation",
+    "choices": [
+      "実施",
+      "契約",
+      "施設",
+      "実施"
+    ],
+    "answer": "実施",
+    "example": "This is an example sentence for implementation."
+  },
+  {
+    "word": "justification",
+    "choices": [
+      "正当化",
+      "経済",
+      "調整",
+      "料金"
+    ],
+    "answer": "正当化",
+    "example": "This is an example sentence for justification."
+  },
+  {
+    "word": "knowledge",
+    "choices": [
+      "知識",
+      "認可",
+      "確認",
+      "商業"
+    ],
+    "answer": "知識",
+    "example": "This is an example sentence for knowledge."
+  },
+  {
+    "word": "licensing",
+    "choices": [
+      "許可",
+      "許可",
+      "商業",
+      "申請書"
+    ],
+    "answer": "許可",
+    "example": "This is an example sentence for licensing."
+  },
+  {
+    "word": "motivation",
+    "choices": [
+      "動機",
+      "配布",
+      "監査人",
+      "監督"
+    ],
+    "answer": "動機",
+    "example": "This is an example sentence for motivation."
+  },
+  {
+    "word": "notification",
+    "choices": [
+      "採用",
+      "結論",
+      "通知",
+      "仕事"
+    ],
+    "answer": "通知",
+    "example": "This is an example sentence for notification."
+  },
+  {
+    "word": "supervision",
+    "choices": [
+      "監督",
+      "広告",
+      "減価償却",
+      "候補者"
+    ],
+    "answer": "監督",
+    "example": "This is an example sentence for supervision."
+  },
+  {
+    "word": "termination",
+    "choices": [
+      "終了",
+      "料金",
+      "予算",
+      "合併"
+    ],
+    "answer": "終了",
+    "example": "This is an example sentence for termination."
+  },
+  {
+    "word": "utilization",
+    "choices": [
+      "動機",
+      "活用",
+      "本社",
+      "資金"
+    ],
+    "answer": "活用",
+    "example": "This is an example sentence for utilization."
+  },
+  {
+    "word": "acquisition",
+    "choices": [
+      "買収",
+      "入札",
+      "代表団",
+      "倉庫"
+    ],
+    "answer": "買収",
+    "example": "This is an example sentence for acquisition."
+  },
+  {
+    "word": "affiliation",
+    "choices": [
+      "資産",
+      "子会社",
+      "協力",
+      "提携"
+    ],
+    "answer": "提携",
+    "example": "This is an example sentence for affiliation."
+  },
+  {
+    "word": "appraisal",
+    "choices": [
+      "認可",
+      "評価",
+      "査定",
+      "キャンセル"
+    ],
+    "answer": "査定",
+    "example": "This is an example sentence for appraisal."
+  },
+  {
+    "word": "arbitration",
+    "choices": [
+      "仲裁",
+      "離職率",
+      "商業",
+      "出荷"
+    ],
+    "answer": "仲裁",
+    "example": "This is an example sentence for arbitration."
+  },
+  {
+    "word": "benchmark",
+    "choices": [
+      "基準",
+      "離職率",
+      "従業員",
+      "資本"
+    ],
+    "answer": "基準",
+    "example": "This is an example sentence for benchmark."
+  },
+  {
+    "word": "blueprint",
+    "choices": [
+      "受付",
+      "設計図",
+      "実現可能性",
+      "通知"
+    ],
+    "answer": "設計図",
+    "example": "This is an example sentence for blueprint."
+  },
+  {
+    "word": "brokerage",
+    "choices": [
+      "代表者",
+      "借金",
+      "方針",
+      "仲介"
+    ],
+    "answer": "仲介",
+    "example": "This is an example sentence for brokerage."
+  },
+  {
+    "word": "collateral",
+    "choices": [
+      "担保",
+      "目標",
+      "相談",
+      "昇進"
+    ],
+    "answer": "担保",
+    "example": "This is an example sentence for collateral."
+  },
+  {
+    "word": "commodity",
+    "choices": [
+      "中断",
+      "商品",
+      "助成金",
+      "商業"
+    ],
+    "answer": "商品",
+    "example": "This is an example sentence for commodity."
+  },
+  {
+    "word": "compensation",
+    "choices": [
+      "配布",
+      "補償",
+      "資産構成",
+      "締め切り"
+    ],
+    "answer": "補償",
+    "example": "This is an example sentence for compensation."
+  },
+  {
+    "word": "consignment",
+    "choices": [
+      "委託",
+      "発表",
+      "契約",
+      "委員会"
+    ],
+    "answer": "委託",
+    "example": "This is an example sentence for consignment."
+  },
+  {
+    "word": "contingency",
+    "choices": [
+      "不測の事態",
+      "割引",
+      "職位",
+      "確認"
+    ],
+    "answer": "不測の事態",
+    "example": "This is an example sentence for contingency."
+  },
+  {
+    "word": "credibility",
+    "choices": [
+      "研修",
+      "動機",
+      "排他性",
+      "信頼性"
+    ],
+    "answer": "信頼性",
+    "example": "This is an example sentence for credibility."
+  },
+  {
+    "word": "currency",
+    "choices": [
+      "代表者",
+      "課税",
+      "通貨",
+      "返金"
+    ],
+    "answer": "通貨",
+    "example": "This is an example sentence for currency."
+  },
+  {
+    "word": "delegation",
+    "choices": [
+      "インフラ",
+      "見積もり",
+      "空き",
+      "代表団"
+    ],
+    "answer": "代表団",
+    "example": "This is an example sentence for delegation."
+  },
+  {
+    "word": "disbursement",
+    "choices": [
+      "査定",
+      "支払い",
+      "予定",
+      "商業"
+    ],
+    "answer": "支払い",
+    "example": "This is an example sentence for disbursement."
+  },
+  {
+    "word": "discrepancy",
+    "choices": [
+      "年金",
+      "利益",
+      "不一致",
+      "契約"
+    ],
+    "answer": "不一致",
+    "example": "This is an example sentence for discrepancy."
+  },
+  {
+    "word": "diversification",
+    "choices": [
+      "本社",
+      "割引",
+      "戦略",
+      "多様化"
+    ],
+    "answer": "多様化",
+    "example": "This is an example sentence for diversification."
+  },
+  {
+    "word": "earnings",
+    "choices": [
+      "収益",
+      "面接",
+      "本社",
+      "統合"
+    ],
+    "answer": "収益",
+    "example": "This is an example sentence for earnings."
+  },
+  {
+    "word": "enrollment",
+    "choices": [
+      "不一致",
+      "見積もり",
+      "生産性",
+      "登録"
+    ],
+    "answer": "登録",
+    "example": "This is an example sentence for enrollment."
+  },
+  {
+    "word": "equity",
+    "choices": [
+      "補助金",
+      "予測",
+      "株式",
+      "排他性"
+    ],
+    "answer": "株式",
+    "example": "This is an example sentence for equity."
+  },
+  {
+    "word": "exclusivity",
+    "choices": [
+      "予定",
+      "物流",
+      "請求書",
+      "排他性"
+    ],
+    "answer": "排他性",
+    "example": "This is an example sentence for exclusivity."
+  },
+  {
+    "word": "exemption",
+    "choices": [
+      "財政",
+      "労働力",
+      "免除",
+      "利益率"
+    ],
+    "answer": "免除",
+    "example": "This is an example sentence for exemption."
+  },
+  {
+    "word": "expiration",
+    "choices": [
+      "有効期限",
+      "結論",
+      "控除",
+      "延長"
+    ],
+    "answer": "有効期限",
+    "example": "This is an example sentence for expiration."
+  },
+  {
+    "word": "feasibility",
+    "choices": [
+      "実現可能性",
+      "管理者",
+      "通知",
+      "実施"
+    ],
+    "answer": "実現可能性",
+    "example": "This is an example sentence for feasibility."
+  },
+  {
+    "word": "fiscal",
+    "choices": [
+      "資金",
+      "排他性",
+      "財政",
+      "登録"
+    ],
+    "answer": "財政",
+    "example": "This is an example sentence for fiscal."
+  },
+  {
+    "word": "flexibility",
+    "choices": [
+      "見込み",
+      "活用",
+      "柔軟性",
+      "収益"
+    ],
+    "answer": "柔軟性",
+    "example": "This is an example sentence for flexibility."
+  },
+  {
+    "word": "fulfillment",
+    "choices": [
+      "予測",
+      "保険",
+      "履行",
+      "在庫"
+    ],
+    "answer": "履行",
+    "example": "This is an example sentence for fulfillment."
+  },
+  {
+    "word": "grant",
+    "choices": [
+      "助成金",
+      "請負業者",
+      "委員会",
+      "予約"
+    ],
+    "answer": "助成金",
+    "example": "This is an example sentence for grant."
+  },
+  {
+    "word": "holding",
+    "choices": [
+      "採用",
+      "調整",
+      "保有",
+      "支出"
+    ],
+    "answer": "保有",
+    "example": "This is an example sentence for holding."
+  },
+  {
+    "word": "integration",
+    "choices": [
+      "統合",
+      "供給業者",
+      "活用",
+      "資産構成"
+    ],
+    "answer": "統合",
+    "example": "This is an example sentence for integration."
+  },
+  {
+    "word": "interruption",
+    "choices": [
+      "黒字",
+      "研修",
+      "中断",
+      "部門"
+    ],
+    "answer": "中断",
+    "example": "This is an example sentence for interruption."
+  },
+  {
+    "word": "lease",
+    "choices": [
+      "製造業者",
+      "中断",
+      "調査",
+      "賃貸"
+    ],
+    "answer": "賃貸",
+    "example": "This is an example sentence for lease."
+  },
+  {
+    "word": "ledger",
+    "choices": [
+      "財政",
+      "調査",
+      "台帳",
+      "保持"
+    ],
+    "answer": "台帳",
+    "example": "This is an example sentence for ledger."
+  },
+  {
+    "word": "liquidation",
+    "choices": [
+      "検査",
+      "実施",
+      "清算",
+      "保証"
+    ],
+    "answer": "清算",
+    "example": "This is an example sentence for liquidation."
+  },
+  {
+    "word": "mandate",
+    "choices": [
+      "命令",
+      "設備",
+      "監督者",
+      "離職率"
+    ],
+    "answer": "命令",
+    "example": "This is an example sentence for mandate."
+  },
+  {
+    "word": "mediation",
+    "choices": [
+      "倉庫",
+      "調停",
+      "不測の事態",
+      "調停"
+    ],
+    "answer": "調停",
+    "example": "This is an example sentence for mediation."
+  },
+  {
+    "word": "merchandise",
+    "choices": [
+      "候補者",
+      "信頼性",
+      "商品",
+      "調整"
+    ],
+    "answer": "商品",
+    "example": "This is an example sentence for merchandise."
+  },
+  {
+    "word": "outsourcing",
+    "choices": [
+      "調整",
+      "外注",
+      "資産構成",
+      "保証"
+    ],
+    "answer": "外注",
+    "example": "This is an example sentence for outsourcing."
+  },
+  {
+    "word": "overhead",
+    "choices": [
+      "会議",
+      "要件",
+      "命令",
+      "間接費"
+    ],
+    "answer": "間接費",
+    "example": "This is an example sentence for overhead."
+  },
+  {
+    "word": "pension",
+    "choices": [
+      "年金",
+      "申請書",
+      "契約",
+      "職位"
+    ],
+    "answer": "年金",
+    "example": "This is an example sentence for pension."
+  },
+  {
+    "word": "portfolio",
+    "choices": [
+      "補償",
+      "資産構成",
+      "命令",
+      "投資"
+    ],
+    "answer": "資産構成",
+    "example": "This is an example sentence for portfolio."
+  },
+  {
+    "word": "prospectus",
+    "choices": [
+      "補償",
+      "目論見書",
+      "監督者",
+      "支店"
+    ],
+    "answer": "目論見書",
+    "example": "This is an example sentence for prospectus."
+  },
+  {
+    "word": "quota",
+    "choices": [
+      "割当",
+      "卸売",
+      "注文",
+      "査定"
+    ],
+    "answer": "割当",
+    "example": "This is an example sentence for quota."
+  },
+  {
+    "word": "reconciliation",
+    "choices": [
+      "調整",
+      "外注",
+      "部門",
+      "動機"
+    ],
+    "answer": "調整",
+    "example": "This is an example sentence for reconciliation."
+  },
+  {
+    "word": "reimbursement",
+    "choices": [
+      "経済",
+      "借金",
+      "払い戻し",
+      "実施"
+    ],
+    "answer": "払い戻し",
+    "example": "This is an example sentence for reimbursement."
+  },
+  {
+    "word": "retention",
+    "choices": [
+      "効率",
+      "借金",
+      "保持",
+      "代表者"
+    ],
+    "answer": "保持",
+    "example": "This is an example sentence for retention."
+  },
+  {
+    "word": "specification",
+    "choices": [
+      "借金",
+      "調停",
+      "仕様",
+      "物流"
+    ],
+    "answer": "仕様",
+    "example": "This is an example sentence for specification."
+  },
+  {
+    "word": "subsidy",
+    "choices": [
+      "空き",
+      "補助金",
+      "階層",
+      "調達"
+    ],
+    "answer": "補助金",
+    "example": "This is an example sentence for subsidy."
+  },
+  {
+    "word": "surplus",
+    "choices": [
+      "黒字",
+      "割当",
+      "提携",
+      "目論見書"
+    ],
+    "answer": "黒字",
+    "example": "This is an example sentence for surplus."
+  },
+  {
+    "word": "tender",
+    "choices": [
+      "延長",
+      "指針",
+      "署名",
+      "入札"
+    ],
+    "answer": "入札",
+    "example": "This is an example sentence for tender."
+  },
+  {
+    "word": "turnover",
+    "choices": [
+      "存続可能性",
+      "供給業者",
+      "離職率",
+      "施設"
+    ],
+    "answer": "離職率",
+    "example": "This is an example sentence for turnover."
+  },
+  {
+    "word": "viability",
+    "choices": [
+      "製造業者",
+      "存続可能性",
+      "出席",
+      "子会社"
+    ],
+    "answer": "存続可能性",
+    "example": "This is an example sentence for viability."
+  },
+  {
+    "word": "warranty",
+    "choices": [
+      "保証",
+      "見込み",
+      "指針",
+      "採用"
+    ],
+    "answer": "保証",
+    "example": "This is an example sentence for warranty."
+  },
+  {
+    "word": "workload",
+    "choices": [
+      "多様化",
+      "中断",
+      "株式",
+      "業務量"
+    ],
+    "answer": "業務量",
+    "example": "This is an example sentence for workload."
+  },
+  {
+    "word": "annual",
+    "choices": [
+      "年次",
+      "株式",
+      "露出",
+      "委員会"
+    ],
+    "answer": "年次",
+    "example": "This is an example sentence for annual."
+  },
+  {
+    "word": "applicant",
+    "choices": [
+      "休暇",
+      "応募者",
+      "資本",
+      "清算"
+    ],
+    "answer": "応募者",
+    "example": "This is an example sentence for applicant."
+  },
+  {
+    "word": "device",
+    "choices": [
+      "機器",
+      "存続可能性",
+      "代表団",
+      "運動"
+    ],
+    "answer": "機器",
+    "example": "This is an example sentence for device."
+  },
+  {
+    "word": "document",
+    "choices": [
+      "書類",
+      "管理",
+      "会議",
+      "買収"
+    ],
+    "answer": "書類",
+    "example": "This is an example sentence for document."
+  },
+  {
+    "word": "location",
+    "choices": [
+      "信頼性",
+      "場所",
+      "仕様",
+      "昇進"
+    ],
+    "answer": "場所",
+    "example": "This is an example sentence for location."
+  },
+  {
+    "word": "purchase",
+    "choices": [
+      "経済",
+      "予測",
+      "職位",
+      "購入"
+    ],
+    "answer": "購入",
+    "example": "This is an example sentence for purchase."
+  },
+  {
+    "word": "purpose",
+    "choices": [
+      "製品",
+      "予測",
+      "購入",
+      "目的"
+    ],
+    "answer": "目的",
+    "example": "This is an example sentence for purpose."
+  },
+  {
+    "word": "record",
+    "choices": [
+      "見込み",
+      "命令",
+      "顧客層",
+      "記録"
+    ],
+    "answer": "記録",
+    "example": "This is an example sentence for record."
+  },
+  {
+    "word": "registration",
+    "choices": [
+      "地域社会",
+      "代表者",
+      "登録",
+      "収容能力"
+    ],
+    "answer": "登録",
+    "example": "This is an example sentence for registration."
+  },
+  {
+    "word": "replacement",
+    "choices": [
+      "候補者",
+      "規則",
+      "比較",
+      "交換"
+    ],
+    "answer": "交換",
+    "example": "This is an example sentence for replacement."
+  },
+  {
+    "word": "request",
+    "choices": [
+      "支出",
+      "依頼",
+      "借金",
+      "課税"
+    ],
+    "answer": "依頼",
+    "example": "This is an example sentence for request."
+  },
+  {
+    "word": "resource",
+    "choices": [
+      "顧客層",
+      "交換",
+      "商業",
+      "資源"
+    ],
+    "answer": "資源",
+    "example": "This is an example sentence for resource."
+  },
+  {
+    "word": "result",
+    "choices": [
+      "保守",
+      "経験",
+      "結果",
+      "予算"
+    ],
+    "answer": "結果",
+    "example": "This is an example sentence for result."
+  },
+  {
+    "word": "retirement",
+    "choices": [
+      "相談",
+      "会場",
+      "退職",
+      "株主"
+    ],
+    "answer": "退職",
+    "example": "This is an example sentence for retirement."
+  },
+  {
+    "word": "staff",
+    "choices": [
+      "仕事",
+      "職員",
+      "面接",
+      "資産"
+    ],
+    "answer": "職員",
+    "example": "This is an example sentence for staff."
+  },
+  {
+    "word": "stock",
+    "choices": [
+      "運動",
+      "本社",
+      "在庫",
+      "請負業者"
+    ],
+    "answer": "在庫",
+    "example": "This is an example sentence for stock."
+  },
+  {
+    "word": "vacation",
+    "choices": [
+      "休暇",
+      "報告書",
+      "協力",
+      "本社"
+    ],
+    "answer": "休暇",
+    "example": "This is an example sentence for vacation."
+  },
+  {
+    "word": "venue",
+    "choices": [
+      "会場",
+      "フィードバック",
+      "業務量",
+      "管理"
+    ],
+    "answer": "会場",
+    "example": "This is an example sentence for venue."
+  },
+  {
+    "word": "account",
+    "choices": [
+      "効率",
+      "不測の事態",
+      "資格",
+      "口座"
+    ],
+    "answer": "口座",
+    "example": "This is an example sentence for account."
+  },
+  {
+    "word": "article",
+    "choices": [
+      "仕事",
+      "依頼",
+      "配達",
+      "記事"
+    ],
+    "answer": "記事",
+    "example": "This is an example sentence for article."
+  },
+  {
+    "word": "audience",
+    "choices": [
+      "購入",
+      "目論見書",
+      "聴衆",
+      "休暇"
+    ],
+    "answer": "聴衆",
+    "example": "This is an example sentence for audience."
+  },
+  {
+    "word": "author",
+    "choices": [
+      "活用",
+      "子会社",
+      "著者",
+      "顧客"
+    ],
+    "answer": "著者",
+    "example": "This is an example sentence for author."
+  },
+  {
+    "word": "balance",
+    "choices": [
+      "通知",
+      "祝賀",
+      "仲介業",
+      "残高"
+    ],
+    "answer": "残高",
+    "example": "This is an example sentence for balance."
+  },
+  {
+    "word": "bill",
+    "choices": [
+      "管理者",
+      "計画",
+      "請求書",
+      "職員"
+    ],
+    "answer": "請求書",
+    "example": "This is an example sentence for bill."
+  },
+  {
+    "word": "bonus",
+    "choices": [
+      "保証",
+      "賞与",
+      "遵守",
+      "監督"
+    ],
+    "answer": "賞与",
+    "example": "This is an example sentence for bonus."
+  },
+  {
+    "word": "campaign",
+    "choices": [
+      "仲介人",
+      "運動",
+      "仕事",
+      "在庫"
+    ],
+    "answer": "運動",
+    "example": "This is an example sentence for campaign."
+  },
+  {
+    "word": "capacity",
+    "choices": [
+      "命令",
+      "在庫",
+      "収容能力",
+      "責任"
+    ],
+    "answer": "収容能力",
+    "example": "This is an example sentence for capacity."
+  },
+  {
+    "word": "career",
+    "choices": [
+      "予定",
+      "終了",
+      "経歴",
+      "運動"
+    ],
+    "answer": "経歴",
+    "example": "This is an example sentence for career."
+  },
+  {
+    "word": "cash",
+    "choices": [
+      "小切手",
+      "現金",
+      "資産",
+      "選択"
+    ],
+    "answer": "現金",
+    "example": "This is an example sentence for cash."
+  },
+  {
+    "word": "celebration",
+    "choices": [
+      "会場",
+      "統合",
+      "方針",
+      "祝賀"
+    ],
+    "answer": "祝賀",
+    "example": "This is an example sentence for celebration."
+  },
+  {
+    "word": "certificate",
+    "choices": [
+      "証明書",
+      "同僚",
+      "通貨",
+      "規則"
+    ],
+    "answer": "証明書",
+    "example": "This is an example sentence for certificate."
+  },
+  {
+    "word": "charge",
+    "choices": [
+      "知識",
+      "料金",
+      "遵守",
+      "依頼"
+    ],
+    "answer": "料金",
+    "example": "This is an example sentence for charge."
+  },
+  {
+    "word": "check",
+    "choices": [
+      "商業",
+      "小切手",
+      "合併",
+      "評価"
+    ],
+    "answer": "小切手",
+    "example": "This is an example sentence for check."
+  },
+  {
+    "word": "choice",
+    "choices": [
+      "仕様",
+      "残高",
+      "選択",
+      "経歴"
+    ],
+    "answer": "選択",
+    "example": "This is an example sentence for choice."
+  },
+  {
+    "word": "clientele",
+    "choices": [
+      "昇進",
+      "業務量",
+      "顧客層",
+      "職位"
+    ],
+    "answer": "顧客層",
+    "example": "This is an example sentence for clientele."
+  },
+  {
+    "word": "commitment",
+    "choices": [
+      "指針",
+      "約束",
+      "調査",
+      "活用"
+    ],
+    "answer": "約束",
+    "example": "This is an example sentence for commitment."
+  },
+  {
+    "word": "communication",
+    "choices": [
+      "多様化",
+      "通信",
+      "年金",
+      "借金"
+    ],
+    "answer": "通信",
+    "example": "This is an example sentence for communication."
+  },
+  {
+    "word": "community",
+    "choices": [
+      "清算",
+      "地域社会",
+      "約束",
+      "小切手"
+    ],
+    "answer": "地域社会",
+    "example": "This is an example sentence for community."
+  },
+  {
+    "word": "company",
+    "choices": [
+      "部門",
+      "予算",
+      "会社",
+      "減価償却"
+    ],
+    "answer": "会社",
+    "example": "This is an example sentence for company."
+  },
+  {
+    "word": "comparison",
+    "choices": [
+      "退職",
+      "協力",
+      "比較",
+      "調査"
+    ],
+    "answer": "比較",
+    "example": "This is an example sentence for comparison."
   }
 ]

@@ -2034,17 +2034,6 @@
     "example": "This is an example sentence for tender."
   },
   {
-    "word": "turnover",
-    "choices": [
-      "存続可能性",
-      "供給業者",
-      "離職率",
-      "施設"
-    ],
-    "answer": "離職率",
-    "example": "This is an example sentence for turnover."
-  },
-  {
     "word": "viability",
     "choices": [
       "製造業者",

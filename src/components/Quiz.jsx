@@ -39,7 +39,7 @@ function Quiz() {
   };
 
   useEffect(() => {
-    fetch('/quiz-data.json')
+    fetch('/quiz-data01.json')
       .then(res => res.json())
       .then(data => {
         const unique = removeDuplicatesByWord(data);

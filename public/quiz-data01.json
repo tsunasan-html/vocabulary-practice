@@ -1,0 +1,2642 @@
+[
+  {
+    "word": "able",
+    "choices": [
+      "できる",
+      "すでに",
+      "下に",
+      "近い"
+    ],
+    "answer": "できる",
+    "example": "She is able to solve difficult problems quickly."
+  },
+  {
+    "word": "abroad",
+    "choices": [
+      "海外で",
+      "量",
+      "忙しい",
+      "会社"
+    ],
+    "answer": "海外で",
+    "example": "He studied abroad in Australia last year."
+  },
+  {
+    "word": "actually",
+    "choices": [
+      "連絡",
+      "また",
+      "中止する",
+      "実際"
+    ],
+    "answer": "実際",
+    "example": "Actually, I don't think that's a good idea."
+  },
+  {
+    "word": "add",
+    "choices": [
+      "到着する",
+      "加える",
+      "壊れる",
+      "近い"
+    ],
+    "answer": "加える",
+    "example": "Please add your name to the list."
+  },
+  {
+    "word": "agree",
+    "choices": [
+      "同意する",
+      "綺麗な",
+      "確かな",
+      "連絡"
+    ],
+    "answer": "同意する",
+    "example": "They all agree that the project was a success."
+  },
+  {
+    "word": "almost",
+    "choices": [
+      "もう少しで",
+      "事務員",
+      "始める",
+      "続く"
+    ],
+    "answer": "もう少しで",
+    "example": "I almost forgot my umbrella this morning."
+  },
+  {
+    "word": "already",
+    "choices": [
+      "実際",
+      "いつも",
+      "壊れる",
+      "すでに"
+    ],
+    "answer": "すでに",
+    "example": "I have already finished my homework."
+  },
+  {
+    "word": "also",
+    "choices": [
+      "借りる",
+      "また",
+      "少し",
+      "下に"
+    ],
+    "answer": "また",
+    "example": "She is a teacher and also a writer."
+  },
+  {
+    "word": "always",
+    "choices": [
+      "いつも",
+      "もう少しで",
+      "丁寧な",
+      "近い"
+    ],
+    "answer": "いつも",
+    "example": "He always drinks coffee in the morning."
+  },
+  {
+    "word": "amount",
+    "choices": [
+      "確かな",
+      "会社",
+      "量",
+      "事務員"
+    ],
+    "answer": "量",
+    "example": "The total amount is over 10,000 yen."
+  },
+  {
+    "word": "approach",
+    "choices": [
+      "下に",
+      "方法",
+      "確かな",
+      "接続"
+    ],
+    "answer": "方法",
+    "example": "We need a new approach to solve this problem."
+  },
+  {
+    "word": "arrive",
+    "choices": [
+      "会社",
+      "選ぶ",
+      "注意",
+      "到着する"
+    ],
+    "answer": "到着する",
+    "example": "The train will arrive at 10 a.m."
+  },
+  {
+    "word": "attention",
+    "choices": [
+      "量",
+      "壊れる",
+      "注意",
+      "接続"
+    ],
+    "answer": "注意",
+    "example": "Please pay attention to the instructions."
+  },
+  {
+    "word": "average",
+    "choices": [
+      "少し",
+      "平均的な",
+      "幅広い",
+      "海外で"
+    ],
+    "answer": "平均的な",
+    "example": "The average temperature in June is 25°C."
+  },
+  {
+    "word": "become",
+    "choices": [
+      "下に",
+      "海外で",
+      "中止する",
+      "〜になる"
+    ],
+    "answer": "〜になる",
+    "example": "He wants to become a doctor."
+  },
+  {
+    "word": "begin",
+    "choices": [
+      "始める",
+      "比べる",
+      "もう少しで",
+      "接続"
+    ],
+    "answer": "始める",
+    "example": "The class will begin at 9 o’clock."
+  },
+  {
+    "word": "believe",
+    "choices": [
+      "信じる",
+      "幅広い",
+      "近い",
+      "はっきりした"
+    ],
+    "answer": "信じる",
+    "example": "I believe in your potential."
+  },
+  {
+    "word": "below",
+    "choices": [
+      "連絡",
+      "方法",
+      "下に",
+      "接続"
+    ],
+    "answer": "下に",
+    "example": "The temperature dropped below zero."
+  },
+  {
+    "word": "bit",
+    "choices": [
+      "少し",
+      "中止する",
+      "信じる",
+      "できる"
+    ],
+    "answer": "少し",
+    "example": "Could you move a bit to the left?"
+  },
+  {
+    "word": "borrow",
+    "choices": [
+      "同意する",
+      "借りる",
+      "注意",
+      "比べる"
+    ],
+    "answer": "借りる",
+    "example": "Can I borrow your pen?"
+  },
+  {
+    "word": "break",
+    "choices": [
+      "接続",
+      "注意",
+      "壊れる",
+      "近い"
+    ],
+    "answer": "壊れる",
+    "example": "Be careful not to break the glass."
+  },
+  {
+    "word": "broad",
+    "choices": [
+      "幅広い",
+      "〜になる",
+      "続く",
+      "共通の"
+    ],
+    "answer": "幅広い",
+    "example": "He has broad knowledge of history."
+  },
+  {
+    "word": "busy",
+    "choices": [
+      "事務員",
+      "忙しい",
+      "海外で",
+      "比べる"
+    ],
+    "answer": "忙しい",
+    "example": "I’m busy with work today."
+  },
+  {
+    "word": "cancel",
+    "choices": [
+      "壊れる",
+      "中止する",
+      "少し",
+      "始める"
+    ],
+    "answer": "中止する",
+    "example": "We had to cancel the meeting."
+  },
+  {
+    "word": "careful",
+    "choices": [
+      "もう少しで",
+      "丁寧な",
+      "事務員",
+      "到着する"
+    ],
+    "answer": "丁寧な",
+    "example": "Be careful when you cross the street."
+  },
+  {
+    "word": "carefully",
+    "choices": [
+      "壊れる",
+      "丁寧に",
+      "始める",
+      "量"
+    ],
+    "answer": "丁寧に",
+    "example": "She carefully checked the documents."
+  },
+  {
+    "word": "certain",
+    "choices": [
+      "確かな",
+      "丁寧に",
+      "〜になる",
+      "実際"
+    ],
+    "answer": "確かな",
+    "example": "I’m certain he will come."
+  },
+  {
+    "word": "choose",
+    "choices": [
+      "事務員",
+      "壊れる",
+      "方法",
+      "選ぶ"
+    ],
+    "answer": "選ぶ",
+    "example": "Please choose your favorite color."
+  },
+  {
+    "word": "clean",
+    "choices": [
+      "少し",
+      "綺麗な",
+      "到着する",
+      "同意する"
+    ],
+    "answer": "綺麗な",
+    "example": "This room is very clean."
+  },
+  {
+    "word": "clear",
+    "choices": [
+      "はっきりした",
+      "状態",
+      "忙しい",
+      "できる"
+    ],
+    "answer": "はっきりした",
+    "example": "The sky is clear today."
+  },
+  {
+    "word": "clerk",
+    "choices": [
+      "事務員",
+      "もう少しで",
+      "少し",
+      "幅広い"
+    ],
+    "answer": "事務員",
+    "example": "The clerk helped me find the book."
+  },
+  {
+    "word": "close",
+    "choices": [
+      "近い",
+      "少し",
+      "事務員",
+      "下に"
+    ],
+    "answer": "近い",
+    "example": "The bank is close to the station."
+  },
+  {
+    "word": "collect",
+    "choices": [
+      "集める",
+      "到着する",
+      "丁寧に",
+      "事務員"
+    ],
+    "answer": "集める",
+    "example": "She collects old coins."
+  },
+  {
+    "word": "common",
+    "choices": [
+      "借りる",
+      "少し",
+      "共通の",
+      "会社"
+    ],
+    "answer": "共通の",
+    "example": "English is a common language worldwide."
+  },
+  {
+    "word": "company",
+    "choices": [
+      "借りる",
+      "下に",
+      "会社",
+      "信じる"
+    ],
+    "answer": "会社",
+    "example": "He works for a big company."
+  },
+  {
+    "word": "compare",
+    "choices": [
+      "比べる",
+      "いつも",
+      "実際",
+      "壊れる"
+    ],
+    "answer": "比べる",
+    "example": "Let’s compare these two products."
+  },
+  {
+    "word": "condition",
+    "choices": [
+      "丁寧に",
+      "実際",
+      "会社",
+      "状態"
+    ],
+    "answer": "状態",
+    "example": "The car is in good condition."
+  },
+  {
+    "word": "connect",
+    "choices": [
+      "確かな",
+      "もう少しで",
+      "綺麗な",
+      "接続"
+    ],
+    "answer": "接続",
+    "example": "This cable connects to the printer."
+  },
+  {
+    "word": "contact",
+    "choices": [
+      "実際",
+      "連絡",
+      "はっきりした",
+      "壊れる"
+    ],
+    "answer": "連絡",
+    "example": "You can contact me by email."
+  },
+  {
+    "word": "continue",
+    "choices": [
+      "平均的な",
+      "はっきりした",
+      "続く",
+      "接続"
+    ],
+    "answer": "続く",
+    "example": "The rain will continue tomorrow."
+  },
+  {
+    "word": "convenient",
+    "choices": [
+      "便利な",
+      "経験",
+      "教育",
+      "努力"
+    ],
+    "answer": "便利な",
+    "example": "This app is very convenient."
+  },
+  {
+    "word": "conversation",
+    "choices": [
+      "会話",
+      "用紙",
+      "空の",
+      "話し合う"
+    ],
+    "answer": "会話",
+    "example": "We had a long conversation."
+  },
+  {
+    "word": "corporation",
+    "choices": [
+      "2倍にする",
+      "会話",
+      "映画",
+      "会社"
+    ],
+    "answer": "会社",
+    "example": "He works at a large corporation."
+  },
+  {
+    "word": "customer",
+    "choices": [
+      "発見する",
+      "客",
+      "十分な",
+      "扱う"
+    ],
+    "answer": "客",
+    "example": "The customer was satisfied with the service."
+  },
+  {
+    "word": "damage",
+    "choices": [
+      "速い",
+      "損害",
+      "簡単な",
+      "値段が高い"
+    ],
+    "answer": "損害",
+    "example": "The flood caused serious damage."
+  },
+  {
+    "word": "deal",
+    "choices": [
+      "特に",
+      "説明",
+      "扱う",
+      "発見する"
+    ],
+    "answer": "扱う",
+    "example": "She deals with many clients every day."
+  },
+  {
+    "word": "decide",
+    "choices": [
+      "空の",
+      "決める",
+      "入口",
+      "電気"
+    ],
+    "answer": "決める",
+    "example": "I decided to study abroad."
+  },
+  {
+    "word": "decorate",
+    "choices": [
+      "楽しむ",
+      "十分な",
+      "事実",
+      "飾る"
+    ],
+    "answer": "飾る",
+    "example": "They decorated the room for the party."
+  },
+  {
+    "word": "demonstration",
+    "choices": [
+      "例",
+      "最終的な",
+      "余分な",
+      "実演"
+    ],
+    "answer": "実演",
+    "example": "He gave a demonstration of the new tool."
+  },
+  {
+    "word": "different",
+    "choices": [
+      "異なる",
+      "交換",
+      "空の",
+      "実演"
+    ],
+    "answer": "異なる",
+    "example": "My answer is different from yours."
+  },
+  {
+    "word": "difficult",
+    "choices": [
+      "難しい",
+      "会話",
+      "教育",
+      "便利な"
+    ],
+    "answer": "難しい",
+    "example": "This question is very difficult."
+  },
+  {
+    "word": "discover",
+    "choices": [
+      "発見する",
+      "客",
+      "余分な",
+      "映画"
+    ],
+    "answer": "発見する",
+    "example": "They discovered a new species."
+  },
+  {
+    "word": "discuss",
+    "choices": [
+      "効果",
+      "努力",
+      "話し合う",
+      "十分な"
+    ],
+    "answer": "話し合う",
+    "example": "Let’s discuss this issue later."
+  },
+  {
+    "word": "double",
+    "choices": [
+      "空の",
+      "経験",
+      "交換",
+      "2倍にする"
+    ],
+    "answer": "2倍にする",
+    "example": "She ordered a double cheeseburger."
+  },
+  {
+    "word": "easy",
+    "choices": [
+      "人を興奮させるような",
+      "簡単な",
+      "経験",
+      "2倍にする"
+    ],
+    "answer": "簡単な",
+    "example": "This test is easy for me."
+  },
+  {
+    "word": "education",
+    "choices": [
+      "予想",
+      "交換",
+      "余分な",
+      "教育"
+    ],
+    "answer": "教育",
+    "example": "Education is the key to success."
+  },
+  {
+    "word": "effect",
+    "choices": [
+      "効果",
+      "便利な",
+      "値段が高い",
+      "教育"
+    ],
+    "answer": "効果",
+    "example": "The medicine had a strong effect."
+  },
+  {
+    "word": "effort",
+    "choices": [
+      "便利な",
+      "入口",
+      "努力",
+      "好きな"
+    ],
+    "answer": "努力",
+    "example": "She made a great effort to improve."
+  },
+  {
+    "word": "electricity",
+    "choices": [
+      "電気",
+      "異なる",
+      "経験",
+      "努力"
+    ],
+    "answer": "電気",
+    "example": "We need to save electricity."
+  },
+  {
+    "word": "empty",
+    "choices": [
+      "空の",
+      "効果",
+      "事実",
+      "決める"
+    ],
+    "answer": "空の",
+    "example": "The box was empty."
+  },
+  {
+    "word": "enjoy",
+    "choices": [
+      "空の",
+      "楽しむ",
+      "感想",
+      "特に"
+    ],
+    "answer": "楽しむ",
+    "example": "I enjoy playing soccer."
+  },
+  {
+    "word": "enough",
+    "choices": [
+      "十分な",
+      "用紙",
+      "難しい",
+      "特に"
+    ],
+    "answer": "十分な",
+    "example": "We don’t have enough time."
+  },
+  {
+    "word": "entrance",
+    "choices": [
+      "効果",
+      "入口",
+      "最終的な",
+      "交換"
+    ],
+    "answer": "入口",
+    "example": "The entrance is on the right."
+  },
+  {
+    "word": "especially",
+    "choices": [
+      "感想",
+      "教育",
+      "例",
+      "特に"
+    ],
+    "answer": "特に",
+    "example": "I like fruit, especially apples."
+  },
+  {
+    "word": "example",
+    "choices": [
+      "2倍にする",
+      "異なる",
+      "例",
+      "教育"
+    ],
+    "answer": "例",
+    "example": "This is a good example of teamwork."
+  },
+  {
+    "word": "exchange",
+    "choices": [
+      "交換",
+      "家具",
+      "十分な",
+      "入口"
+    ],
+    "answer": "交換",
+    "example": "They exchanged gifts at the party."
+  },
+  {
+    "word": "exciting",
+    "choices": [
+      "事実",
+      "人を興奮させるような",
+      "会話",
+      "例"
+    ],
+    "answer": "人を興奮させるような",
+    "example": "The game was really exciting."
+  },
+  {
+    "word": "expensive",
+    "choices": [
+      "扱う",
+      "感想",
+      "値段が高い",
+      "飾る"
+    ],
+    "answer": "値段が高い",
+    "example": "That bag is too expensive."
+  },
+  {
+    "word": "experience",
+    "choices": [
+      "用紙",
+      "2倍にする",
+      "経験",
+      "便利な"
+    ],
+    "answer": "経験",
+    "example": "She has a lot of experience in sales."
+  },
+  {
+    "word": "explain",
+    "choices": [
+      "説明",
+      "2倍にする",
+      "客",
+      "速い"
+    ],
+    "answer": "説明",
+    "example": "Can you explain this to me?"
+  },
+  {
+    "word": "extra",
+    "choices": [
+      "速い",
+      "異なる",
+      "余分な",
+      "会社"
+    ],
+    "answer": "余分な",
+    "example": "I need some extra paper."
+  },
+  {
+    "word": "fact",
+    "choices": [
+      "説明",
+      "会話",
+      "家具",
+      "事実"
+    ],
+    "answer": "事実",
+    "example": "It is a known fact that the Earth orbits the Sun."
+  },
+  {
+    "word": "fast",
+    "choices": [
+      "速い",
+      "電気",
+      "楽しむ",
+      "会社"
+    ],
+    "answer": "速い",
+    "example": "He is a fast runner."
+  },
+  {
+    "word": "favorite",
+    "choices": [
+      "会社",
+      "発見する",
+      "交換",
+      "好きな"
+    ],
+    "answer": "好きな",
+    "example": "My favorite color is blue."
+  },
+  {
+    "word": "feedback",
+    "choices": [
+      "2倍にする",
+      "入口",
+      "感想",
+      "教育"
+    ],
+    "answer": "感想",
+    "example": "We received positive feedback from customers."
+  },
+  {
+    "word": "film",
+    "choices": [
+      "飾る",
+      "予想",
+      "空の",
+      "映画"
+    ],
+    "answer": "映画",
+    "example": "We watched a great film last night."
+  },
+  {
+    "word": "final",
+    "choices": [
+      "最終的な",
+      "事実",
+      "家具",
+      "決める"
+    ],
+    "answer": "最終的な",
+    "example": "This is the final exam of the year."
+  },
+  {
+    "word": "forecast",
+    "choices": [
+      "予想",
+      "速い",
+      "特に",
+      "2倍にする"
+    ],
+    "answer": "予想",
+    "example": "The weather forecast says it will rain tomorrow."
+  },
+  {
+    "word": "form",
+    "choices": [
+      "説明",
+      "会社",
+      "用紙",
+      "異なる"
+    ],
+    "answer": "用紙",
+    "example": "Fill out this form before the interview."
+  },
+  {
+    "word": "furniture",
+    "choices": [
+      "難しい",
+      "家具",
+      "事実",
+      "最終的な"
+    ],
+    "answer": "家具",
+    "example": "They bought new furniture for the living room."
+  },
+  {
+    "word": "further",
+    "choices": [
+      "毎月の",
+      "起こる",
+      "卒業",
+      "さらなる"
+    ],
+    "answer": "さらなる",
+    "example": "We need further information before making a decision."
+  },
+  {
+    "word": "gallery",
+    "choices": [
+      "卒業",
+      "美術館",
+      "食事",
+      "残念ながら"
+    ],
+    "answer": "美術館",
+    "example": "The gallery features modern art."
+  },
+  {
+    "word": "glad",
+    "choices": [
+      "嬉しい",
+      "しばしば",
+      "お知らせ",
+      "食事"
+    ],
+    "answer": "嬉しい",
+    "example": "I’m glad to hear you’re doing well."
+  },
+  {
+    "word": "government",
+    "choices": [
+      "主な",
+      "嬉しい",
+      "政府",
+      "融資"
+    ],
+    "answer": "政府",
+    "example": "The government announced a new policy."
+  },
+  {
+    "word": "graduate",
+    "choices": [
+      "食事",
+      "卒業",
+      "参加",
+      "お知らせ"
+    ],
+    "answer": "卒業",
+    "example": "She will graduate from college next year."
+  },
+  {
+    "word": "growth",
+    "choices": [
+      "政府",
+      "医療の",
+      "成長",
+      "物"
+    ],
+    "answer": "成長",
+    "example": "There has been strong economic growth this year."
+  },
+  {
+    "word": "happen",
+    "choices": [
+      "起こる",
+      "講義",
+      "小説",
+      "参加"
+    ],
+    "answer": "起こる",
+    "example": "Accidents can happen at any time."
+  },
+  {
+    "word": "healthy",
+    "choices": [
+      "健康的な",
+      "騒音",
+      "卒業",
+      "講義"
+    ],
+    "answer": "健康的な",
+    "example": "He stays healthy by eating well and exercising."
+  },
+  {
+    "word": "I’m afraid",
+    "choices": [
+      "全国的な",
+      "健康的な",
+      "残念ながら",
+      "起こる"
+    ],
+    "answer": "残念ながら",
+    "example": "I’m afraid I can’t attend the meeting."
+  },
+  {
+    "word": "important",
+    "choices": [
+      "食事",
+      "代わりに",
+      "成長",
+      "重要な"
+    ],
+    "answer": "重要な",
+    "example": "It is important to get enough sleep."
+  },
+  {
+    "word": "instead",
+    "choices": [
+      "主要な",
+      "国際的な",
+      "代わりに",
+      "健康的な"
+    ],
+    "answer": "代わりに",
+    "example": "Let’s stay home instead of going out."
+  },
+  {
+    "word": "interested",
+    "choices": [
+      "食事",
+      "関心がある",
+      "毎月の",
+      "さらなる"
+    ],
+    "answer": "関心がある",
+    "example": "I’m interested in learning French."
+  },
+  {
+    "word": "international",
+    "choices": [
+      "許可",
+      "国際的な",
+      "騒音",
+      "嬉しい"
+    ],
+    "answer": "国際的な",
+    "example": "They work for an international company."
+  },
+  {
+    "word": "interview",
+    "choices": [
+      "嬉しい",
+      "材料",
+      "残念ながら",
+      "面接"
+    ],
+    "answer": "面接",
+    "example": "I have a job interview tomorrow."
+  },
+  {
+    "word": "item",
+    "choices": [
+      "材料",
+      "しばしば",
+      "物",
+      "医療の"
+    ],
+    "answer": "物",
+    "example": "That item is out of stock."
+  },
+  {
+    "word": "join",
+    "choices": [
+      "自身の",
+      "医療の",
+      "近くの",
+      "参加"
+    ],
+    "answer": "参加",
+    "example": "Would you like to join us for lunch?"
+  },
+  {
+    "word": "law",
+    "choices": [
+      "しばしば",
+      "騒音",
+      "法律",
+      "残念ながら"
+    ],
+    "answer": "法律",
+    "example": "He studied law at university."
+  },
+  {
+    "word": "lecture",
+    "choices": [
+      "講義",
+      "主要な",
+      "卒業",
+      "騒音"
+    ],
+    "answer": "講義",
+    "example": "The lecture was about environmental issues."
+  },
+  {
+    "word": "let",
+    "choices": [
+      "さらなる",
+      "毎月の",
+      "小説",
+      "許可"
+    ],
+    "answer": "許可",
+    "example": "Let me help you with that."
+  },
+  {
+    "word": "library",
+    "choices": [
+      "美術館",
+      "国際的な",
+      "図書館",
+      "重要な"
+    ],
+    "answer": "図書館",
+    "example": "She borrowed a book from the library."
+  },
+  {
+    "word": "loan",
+    "choices": [
+      "主要な",
+      "毎月の",
+      "融資",
+      "騒音"
+    ],
+    "answer": "融資",
+    "example": "He took out a loan to buy a car."
+  },
+  {
+    "word": "loss",
+    "choices": [
+      "毎月の",
+      "意味",
+      "損失",
+      "嬉しい"
+    ],
+    "answer": "損失",
+    "example": "The company reported a loss last quarter."
+  },
+  {
+    "word": "lower",
+    "choices": [
+      "より低い",
+      "お知らせ",
+      "面接",
+      "全国的な"
+    ],
+    "answer": "より低い",
+    "example": "Please lower the volume."
+  },
+  {
+    "word": "main",
+    "choices": [
+      "重要な",
+      "物",
+      "意見",
+      "主な"
+    ],
+    "answer": "主な",
+    "example": "Our main goal is customer satisfaction."
+  },
+  {
+    "word": "major",
+    "choices": [
+      "主要な",
+      "重要な",
+      "より低い",
+      "健康的な"
+    ],
+    "answer": "主要な",
+    "example": "Climate change is a major issue."
+  },
+  {
+    "word": "material",
+    "choices": [
+      "残念ながら",
+      "主要な",
+      "材料",
+      "面接"
+    ],
+    "answer": "材料",
+    "example": "This material is strong and light."
+  },
+  {
+    "word": "meal",
+    "choices": [
+      "国際的な",
+      "許可",
+      "より低い",
+      "食事"
+    ],
+    "answer": "食事",
+    "example": "Dinner is the main meal of the day."
+  },
+  {
+    "word": "meaning",
+    "choices": [
+      "関心がある",
+      "毎月の",
+      "しばしば",
+      "意味"
+    ],
+    "answer": "意味",
+    "example": "What is the meaning of this word?"
+  },
+  {
+    "word": "medical",
+    "choices": [
+      "参加",
+      "食事",
+      "医療の",
+      "主に"
+    ],
+    "answer": "医療の",
+    "example": "She needs medical attention."
+  },
+  {
+    "word": "monthly",
+    "choices": [
+      "毎月の",
+      "重要な",
+      "食事",
+      "法律"
+    ],
+    "answer": "毎月の",
+    "example": "We have a monthly meeting."
+  },
+  {
+    "word": "mostly",
+    "choices": [
+      "政府",
+      "起こる",
+      "参加",
+      "主に"
+    ],
+    "answer": "主に",
+    "example": "I mostly listen to rock music."
+  },
+  {
+    "word": "national",
+    "choices": [
+      "法律",
+      "意見",
+      "より低い",
+      "全国的な"
+    ],
+    "answer": "全国的な",
+    "example": "He joined the national team."
+  },
+  {
+    "word": "nearby",
+    "choices": [
+      "全国的な",
+      "近くの",
+      "食事",
+      "主に"
+    ],
+    "answer": "近くの",
+    "example": "Is there a bank nearby?"
+  },
+  {
+    "word": "noise",
+    "choices": [
+      "公式の",
+      "騒音",
+      "意見",
+      "損失"
+    ],
+    "answer": "騒音",
+    "example": "The construction made a lot of noise."
+  },
+  {
+    "word": "notice",
+    "choices": [
+      "騒音",
+      "参加",
+      "お知らせ",
+      "さらなる"
+    ],
+    "answer": "お知らせ",
+    "example": "Did you see the notice on the wall?"
+  },
+  {
+    "word": "novel",
+    "choices": [
+      "主に",
+      "小説",
+      "起こる",
+      "嬉しい"
+    ],
+    "answer": "小説",
+    "example": "That’s my favorite novel."
+  },
+  {
+    "word": "official",
+    "choices": [
+      "材料",
+      "意見",
+      "面接",
+      "公式の"
+    ],
+    "answer": "公式の",
+    "example": "It’s an official document."
+  },
+  {
+    "word": "often",
+    "choices": [
+      "主要な",
+      "意見",
+      "小説",
+      "しばしば"
+    ],
+    "answer": "しばしば",
+    "example": "I often go jogging in the morning."
+  },
+  {
+    "word": "option",
+    "choices": [
+      "国際的な",
+      "面接",
+      "嬉しい",
+      "意見"
+    ],
+    "answer": "意見",
+    "example": "You have the option to cancel."
+  },
+  {
+    "word": "own",
+    "choices": [
+      "残念ながら",
+      "近くの",
+      "お知らせ",
+      "自身の"
+    ],
+    "answer": "自身の",
+    "example": "He has his own car."
+  },
+  {
+    "word": "further",
+    "choices": [
+      "毎月の",
+      "起こる",
+      "卒業",
+      "さらなる"
+    ],
+    "answer": "さらなる",
+    "example": "We need further information before making a decision."
+  },
+  {
+    "word": "gallery",
+    "choices": [
+      "残念ながら",
+      "食事",
+      "卒業",
+      "美術館"
+    ],
+    "answer": "美術館",
+    "example": "The gallery features modern art."
+  },
+  {
+    "word": "glad",
+    "choices": [
+      "嬉しい",
+      "お知らせ",
+      "しばしば",
+      "食事"
+    ],
+    "answer": "嬉しい",
+    "example": "I’m glad to hear you’re doing well."
+  },
+  {
+    "word": "government",
+    "choices": [
+      "融資",
+      "嬉しい",
+      "政府",
+      "主な"
+    ],
+    "answer": "政府",
+    "example": "The government announced a new policy."
+  },
+  {
+    "word": "graduate",
+    "choices": [
+      "卒業",
+      "食事",
+      "参加",
+      "お知らせ"
+    ],
+    "answer": "卒業",
+    "example": "She will graduate from college next year."
+  },
+  {
+    "word": "growth",
+    "choices": [
+      "医療の",
+      "成長",
+      "物",
+      "政府"
+    ],
+    "answer": "成長",
+    "example": "There has been strong economic growth this year."
+  },
+  {
+    "word": "happen",
+    "choices": [
+      "講義",
+      "参加",
+      "小説",
+      "起こる"
+    ],
+    "answer": "起こる",
+    "example": "Accidents can happen at any time."
+  },
+  {
+    "word": "healthy",
+    "choices": [
+      "卒業",
+      "騒音",
+      "健康的な",
+      "講義"
+    ],
+    "answer": "健康的な",
+    "example": "He stays healthy by eating well and exercising."
+  },
+  {
+    "word": "I’m afraid",
+    "choices": [
+      "残念ながら",
+      "全国的な",
+      "起こる",
+      "健康的な"
+    ],
+    "answer": "残念ながら",
+    "example": "I’m afraid I can’t attend the meeting."
+  },
+  {
+    "word": "important",
+    "choices": [
+      "重要な",
+      "食事",
+      "成長",
+      "代わりに"
+    ],
+    "answer": "重要な",
+    "example": "It is important to get enough sleep."
+  },
+  {
+    "word": "instead",
+    "choices": [
+      "健康的な",
+      "代わりに",
+      "国際的な",
+      "主要な"
+    ],
+    "answer": "代わりに",
+    "example": "Let’s stay home instead of going out."
+  },
+  {
+    "word": "interested",
+    "choices": [
+      "さらなる",
+      "関心がある",
+      "毎月の",
+      "食事"
+    ],
+    "answer": "関心がある",
+    "example": "I’m interested in learning French."
+  },
+  {
+    "word": "international",
+    "choices": [
+      "許可",
+      "嬉しい",
+      "国際的な",
+      "騒音"
+    ],
+    "answer": "国際的な",
+    "example": "They work for an international company."
+  },
+  {
+    "word": "interview",
+    "choices": [
+      "材料",
+      "嬉しい",
+      "面接",
+      "残念ながら"
+    ],
+    "answer": "面接",
+    "example": "I have a job interview tomorrow."
+  },
+  {
+    "word": "item",
+    "choices": [
+      "しばしば",
+      "材料",
+      "物",
+      "医療の"
+    ],
+    "answer": "物",
+    "example": "That item is out of stock."
+  },
+  {
+    "word": "join",
+    "choices": [
+      "医療の",
+      "参加",
+      "自身の",
+      "近くの"
+    ],
+    "answer": "参加",
+    "example": "Would you like to join us for lunch?"
+  },
+  {
+    "word": "law",
+    "choices": [
+      "残念ながら",
+      "騒音",
+      "しばしば",
+      "法律"
+    ],
+    "answer": "法律",
+    "example": "He studied law at university."
+  },
+  {
+    "word": "lecture",
+    "choices": [
+      "講義",
+      "卒業",
+      "主要な",
+      "騒音"
+    ],
+    "answer": "講義",
+    "example": "The lecture was about environmental issues."
+  },
+  {
+    "word": "let",
+    "choices": [
+      "許可",
+      "毎月の",
+      "小説",
+      "さらなる"
+    ],
+    "answer": "許可",
+    "example": "Let me help you with that."
+  },
+  {
+    "word": "library",
+    "choices": [
+      "美術館",
+      "図書館",
+      "重要な",
+      "国際的な"
+    ],
+    "answer": "図書館",
+    "example": "She borrowed a book from the library."
+  },
+  {
+    "word": "loan",
+    "choices": [
+      "毎月の",
+      "騒音",
+      "主要な",
+      "融資"
+    ],
+    "answer": "融資",
+    "example": "He took out a loan to buy a car."
+  },
+  {
+    "word": "loss",
+    "choices": [
+      "嬉しい",
+      "損失",
+      "意味",
+      "毎月の"
+    ],
+    "answer": "損失",
+    "example": "The company reported a loss last quarter."
+  },
+  {
+    "word": "lower",
+    "choices": [
+      "面接",
+      "お知らせ",
+      "より低い",
+      "全国的な"
+    ],
+    "answer": "より低い",
+    "example": "Please lower the volume."
+  },
+  {
+    "word": "main",
+    "choices": [
+      "重要な",
+      "主な",
+      "意見",
+      "物"
+    ],
+    "answer": "主な",
+    "example": "Our main goal is customer satisfaction."
+  },
+  {
+    "word": "major",
+    "choices": [
+      "重要な",
+      "主要な",
+      "健康的な",
+      "より低い"
+    ],
+    "answer": "主要な",
+    "example": "Climate change is a major issue."
+  },
+  {
+    "word": "material",
+    "choices": [
+      "主要な",
+      "材料",
+      "残念ながら",
+      "面接"
+    ],
+    "answer": "材料",
+    "example": "This material is strong and light."
+  },
+  {
+    "word": "meal",
+    "choices": [
+      "食事",
+      "国際的な",
+      "許可",
+      "より低い"
+    ],
+    "answer": "食事",
+    "example": "Dinner is the main meal of the day."
+  },
+  {
+    "word": "meaning",
+    "choices": [
+      "関心がある",
+      "意味",
+      "しばしば",
+      "毎月の"
+    ],
+    "answer": "意味",
+    "example": "What is the meaning of this word?"
+  },
+  {
+    "word": "medical",
+    "choices": [
+      "食事",
+      "主に",
+      "参加",
+      "医療の"
+    ],
+    "answer": "医療の",
+    "example": "She needs medical attention."
+  },
+  {
+    "word": "monthly",
+    "choices": [
+      "重要な",
+      "食事",
+      "毎月の",
+      "法律"
+    ],
+    "answer": "毎月の",
+    "example": "We have a monthly meeting."
+  },
+  {
+    "word": "mostly",
+    "choices": [
+      "政府",
+      "起こる",
+      "主に",
+      "参加"
+    ],
+    "answer": "主に",
+    "example": "I mostly listen to rock music."
+  },
+  {
+    "word": "national",
+    "choices": [
+      "法律",
+      "意見",
+      "全国的な",
+      "より低い"
+    ],
+    "answer": "全国的な",
+    "example": "He joined the national team."
+  },
+  {
+    "word": "nearby",
+    "choices": [
+      "主に",
+      "全国的な",
+      "食事",
+      "近くの"
+    ],
+    "answer": "近くの",
+    "example": "Is there a bank nearby?"
+  },
+  {
+    "word": "noise",
+    "choices": [
+      "騒音",
+      "損失",
+      "公式の",
+      "意見"
+    ],
+    "answer": "騒音",
+    "example": "The construction made a lot of noise."
+  },
+  {
+    "word": "notice",
+    "choices": [
+      "参加",
+      "お知らせ",
+      "騒音",
+      "さらなる"
+    ],
+    "answer": "お知らせ",
+    "example": "Did you see the notice on the wall?"
+  },
+  {
+    "word": "novel",
+    "choices": [
+      "主に",
+      "起こる",
+      "小説",
+      "嬉しい"
+    ],
+    "answer": "小説",
+    "example": "That’s my favorite novel."
+  },
+  {
+    "word": "official",
+    "choices": [
+      "材料",
+      "公式の",
+      "意見",
+      "面接"
+    ],
+    "answer": "公式の",
+    "example": "It’s an official document."
+  },
+  {
+    "word": "often",
+    "choices": [
+      "しばしば",
+      "主要な",
+      "意見",
+      "小説"
+    ],
+    "answer": "しばしば",
+    "example": "I often go jogging in the morning."
+  },
+  {
+    "word": "option",
+    "choices": [
+      "嬉しい",
+      "意見",
+      "国際的な",
+      "面接"
+    ],
+    "answer": "意見",
+    "example": "You have the option to cancel."
+  },
+  {
+    "word": "own",
+    "choices": [
+      "近くの",
+      "お知らせ",
+      "自身の",
+      "残念ながら"
+    ],
+    "answer": "自身の",
+    "example": "He has his own car."
+  },
+  {
+    "word": "park",
+    "choices": [
+      "駐車する",
+      "目的",
+      "関係",
+      "返事をする"
+    ],
+    "answer": "駐車する",
+    "example": "I usually park my car near the station."
+  },
+  {
+    "word": "part",
+    "choices": [
+      "職",
+      "おそらく",
+      "依頼をする",
+      "部分"
+    ],
+    "answer": "部分",
+    "example": "That part of the machine is broken."
+  },
+  {
+    "word": "passenger",
+    "choices": [
+      "返事をする",
+      "乗客",
+      "公共の",
+      "目的"
+    ],
+    "answer": "乗客",
+    "example": "Each passenger must show a ticket."
+  },
+  {
+    "word": "patient",
+    "choices": [
+      "残り",
+      "受け取る",
+      "量",
+      "患者"
+    ],
+    "answer": "患者",
+    "example": "The patient is recovering well."
+  },
+  {
+    "word": "perform",
+    "choices": [
+      "演じる",
+      "おそらく",
+      "乗客",
+      "〜のままでいる"
+    ],
+    "answer": "演じる",
+    "example": "The band will perform live tonight."
+  },
+  {
+    "word": "perhaps",
+    "choices": [
+      "製品",
+      "たぶん",
+      "関係",
+      "残り"
+    ],
+    "answer": "たぶん",
+    "example": "Perhaps we should try a different way."
+  },
+  {
+    "word": "personal",
+    "choices": [
+      "かなり",
+      "安全",
+      "乗る",
+      "個人の"
+    ],
+    "answer": "個人の",
+    "example": "This is my personal opinion."
+  },
+  {
+    "word": "position",
+    "choices": [
+      "役割",
+      "上がる",
+      "かなり",
+      "職"
+    ],
+    "answer": "職",
+    "example": "She applied for a marketing position."
+  },
+  {
+    "word": "possible",
+    "choices": [
+      "たぶん",
+      "目的",
+      "可能な",
+      "公共の"
+    ],
+    "answer": "可能な",
+    "example": "It is possible to finish it today."
+  },
+  {
+    "word": "press",
+    "choices": [
+      "関係",
+      "残り",
+      "報道機関",
+      "駐車する"
+    ],
+    "answer": "報道機関",
+    "example": "The press reported the incident."
+  },
+  {
+    "word": "pretty",
+    "choices": [
+      "戻す",
+      "かなり",
+      "演じる",
+      "返事をする"
+    ],
+    "answer": "かなり",
+    "example": "This dress is pretty."
+  },
+  {
+    "word": "probably",
+    "choices": [
+      "気付く",
+      "患者",
+      "おそらく",
+      "量"
+    ],
+    "answer": "おそらく",
+    "example": "He is probably at home now."
+  },
+  {
+    "word": "problem",
+    "choices": [
+      "患者",
+      "問題",
+      "演じる",
+      "受け取る"
+    ],
+    "answer": "問題",
+    "example": "We need to solve this problem quickly."
+  },
+  {
+    "word": "product",
+    "choices": [
+      "安全",
+      "戻す",
+      "製品",
+      "乗る"
+    ],
+    "answer": "製品",
+    "example": "This is our best-selling product."
+  },
+  {
+    "word": "progress",
+    "choices": [
+      "返事をする",
+      "速く",
+      "進歩",
+      "個人の"
+    ],
+    "answer": "進歩",
+    "example": "He has made good progress in English."
+  },
+  {
+    "word": "promise",
+    "choices": [
+      "約束する",
+      "依頼をする",
+      "製品",
+      "個人の"
+    ],
+    "answer": "約束する",
+    "example": "I promise to call you later."
+  },
+  {
+    "word": "protect",
+    "choices": [
+      "かなり",
+      "受け取る",
+      "保護する",
+      "役割"
+    ],
+    "answer": "保護する",
+    "example": "This sunscreen will protect your skin."
+  },
+  {
+    "word": "proud",
+    "choices": [
+      "個人の",
+      "誇りに思う",
+      "依頼をする",
+      "量"
+    ],
+    "answer": "誇りに思う",
+    "example": "I’m proud of my team."
+  },
+  {
+    "word": "public",
+    "choices": [
+      "安全",
+      "公共の",
+      "演じる",
+      "進歩"
+    ],
+    "answer": "公共の",
+    "example": "Smoking is not allowed in public places."
+  },
+  {
+    "word": "purpose",
+    "choices": [
+      "準備ができて",
+      "依頼をする",
+      "残り",
+      "目的"
+    ],
+    "answer": "目的",
+    "example": "The purpose of this meeting is to plan."
+  },
+  {
+    "word": "quality",
+    "choices": [
+      "公共の",
+      "おそらく",
+      "依頼をする",
+      "質"
+    ],
+    "answer": "質",
+    "example": "The quality of this bag is excellent."
+  },
+  {
+    "word": "quantity",
+    "choices": [
+      "可能な",
+      "量",
+      "かなり",
+      "依頼をする"
+    ],
+    "answer": "量",
+    "example": "They ordered a large quantity of paper."
+  },
+  {
+    "word": "quickly",
+    "choices": [
+      "個人の",
+      "演じる",
+      "可能な",
+      "速く"
+    ],
+    "answer": "速く",
+    "example": "He finished the task quickly."
+  },
+  {
+    "word": "quite",
+    "choices": [
+      "速く",
+      "可能な",
+      "かなり",
+      "誇りに思う"
+    ],
+    "answer": "かなり",
+    "example": "This book is quite interesting."
+  },
+  {
+    "word": "rather",
+    "choices": [
+      "むしろ",
+      "演じる",
+      "乗る",
+      "関係"
+    ],
+    "answer": "むしろ",
+    "example": "I would rather stay home tonight."
+  },
+  {
+    "word": "ready",
+    "choices": [
+      "思い出す",
+      "たぶん",
+      "準備ができて",
+      "報道機関"
+    ],
+    "answer": "準備ができて",
+    "example": "Dinner is ready now."
+  },
+  {
+    "word": "realize",
+    "choices": [
+      "患者",
+      "乗る",
+      "気付く",
+      "役割"
+    ],
+    "answer": "気付く",
+    "example": "I didn’t realize it was so late."
+  },
+  {
+    "word": "receive",
+    "choices": [
+      "問題",
+      "気付く",
+      "質",
+      "受け取る"
+    ],
+    "answer": "受け取る",
+    "example": "Did you receive my message?"
+  },
+  {
+    "word": "relationship",
+    "choices": [
+      "気付く",
+      "依頼をする",
+      "進歩",
+      "関係"
+    ],
+    "answer": "関係",
+    "example": "Their relationship is very strong."
+  },
+  {
+    "word": "remain",
+    "choices": [
+      "〜のままでいる",
+      "気付く",
+      "個人の",
+      "上がる"
+    ],
+    "answer": "〜のままでいる",
+    "example": "Please remain seated."
+  },
+  {
+    "word": "remember",
+    "choices": [
+      "戻す",
+      "思い出す",
+      "目的",
+      "演じる"
+    ],
+    "answer": "思い出す",
+    "example": "Remember to turn off the lights."
+  },
+  {
+    "word": "reply",
+    "choices": [
+      "〜のままでいる",
+      "準備ができて",
+      "返事をする",
+      "演じる"
+    ],
+    "answer": "返事をする",
+    "example": "I forgot to reply to his email."
+  },
+  {
+    "word": "request",
+    "choices": [
+      "安全",
+      "〜のままでいる",
+      "依頼をする",
+      "たぶん"
+    ],
+    "answer": "依頼をする",
+    "example": "I’d like to request a refund."
+  },
+  {
+    "word": "rest",
+    "choices": [
+      "依頼をする",
+      "返事をする",
+      "残り",
+      "安全"
+    ],
+    "answer": "残り",
+    "example": "Take a short rest before continuing."
+  },
+  {
+    "word": "return",
+    "choices": [
+      "製品",
+      "かなり",
+      "速く",
+      "戻す"
+    ],
+    "answer": "戻す",
+    "example": "She will return the book tomorrow."
+  },
+  {
+    "word": "ride",
+    "choices": [
+      "個人の",
+      "公共の",
+      "むしろ",
+      "乗る"
+    ],
+    "answer": "乗る",
+    "example": "Let’s ride our bikes to school."
+  },
+  {
+    "word": "rise",
+    "choices": [
+      "おそらく",
+      "たぶん",
+      "量",
+      "上がる"
+    ],
+    "answer": "上がる",
+    "example": "Prices continue to rise."
+  },
+  {
+    "word": "role",
+    "choices": [
+      "上がる",
+      "かなり",
+      "公共の",
+      "役割"
+    ],
+    "answer": "役割",
+    "example": "He plays an important role in the team."
+  },
+  {
+    "word": "safe",
+    "choices": [
+      "安全な",
+      "駐車する",
+      "乗る",
+      "残り"
+    ],
+    "answer": "安全な",
+    "example": "This neighborhood is very safe."
+  },
+  {
+    "word": "safety",
+    "choices": [
+      "安全",
+      "報道機関",
+      "〜のままでいる",
+      "役割"
+    ],
+    "answer": "安全",
+    "example": "Safety is our top priority."
+  },
+  {
+    "word": "save",
+    "choices": [
+      "忙しい",
+      "決める",
+      "問題",
+      "節約する"
+    ],
+    "answer": "節約する",
+    "example": "Turn off the lights to save energy."
+  },
+  {
+    "word": "science",
+    "choices": [
+      "全国的な",
+      "接続",
+      "科学",
+      "質"
+    ],
+    "answer": "科学",
+    "example": "She is interested in science."
+  },
+  {
+    "word": "seem",
+    "choices": [
+      "〜のようだ",
+      "はっきりした",
+      "電気",
+      "十分な"
+    ],
+    "answer": "〜のようだ",
+    "example": "He seems tired today."
+  },
+  {
+    "word": "select",
+    "choices": [
+      "選ぶ",
+      "近くの",
+      "乗る",
+      "安全"
+    ],
+    "answer": "選ぶ",
+    "example": "Please select your preferred language."
+  },
+  {
+    "word": "series",
+    "choices": [
+      "説明",
+      "飾る",
+      "連続",
+      "融資"
+    ],
+    "answer": "連続",
+    "example": "We watched a series of documentaries."
+  },
+  {
+    "word": "sightseeing",
+    "choices": [
+      "観光",
+      "騒音",
+      "簡単な",
+      "意味"
+    ],
+    "answer": "観光",
+    "example": "We went sightseeing in Kyoto."
+  },
+  {
+    "word": "sign",
+    "choices": [
+      "安全な",
+      "借りる",
+      "乗客",
+      "署名する"
+    ],
+    "answer": "署名する",
+    "example": "Please sign your name here."
+  },
+  {
+    "word": "similar",
+    "choices": [
+      "似た",
+      "いつも",
+      "損害",
+      "借りる"
+    ],
+    "answer": "似た",
+    "example": "Your idea is similar to mine."
+  },
+  {
+    "word": "situation",
+    "choices": [
+      "始める",
+      "しばしば",
+      "美術館",
+      "状況"
+    ],
+    "answer": "状況",
+    "example": "This is a difficult situation."
+  },
+  {
+    "word": "society",
+    "choices": [
+      "下に",
+      "社会",
+      "余分な",
+      "部分"
+    ],
+    "answer": "社会",
+    "example": "Education is important for society."
+  },
+  {
+    "word": "sometime",
+    "choices": [
+      "いつか",
+      "起こる",
+      "おそらく",
+      "駐車する"
+    ],
+    "answer": "いつか",
+    "example": "Let’s have lunch sometime next week."
+  },
+  {
+    "word": "soon",
+    "choices": [
+      "起こる",
+      "主に",
+      "もうすぐ",
+      "飾る"
+    ],
+    "answer": "もうすぐ",
+    "example": "I’ll see you again soon."
+  },
+  {
+    "word": "source",
+    "choices": [
+      "源",
+      "駐車する",
+      "安全",
+      "説明"
+    ],
+    "answer": "源",
+    "example": "This river is the main source of water for the town."
+  },
+  {
+    "word": "spend",
+    "choices": [
+      "話し合う",
+      "感想",
+      "問題",
+      "費やす"
+    ],
+    "answer": "費やす",
+    "example": "She spends a lot of time reading."
+  },
+  {
+    "word": "stay",
+    "choices": [
+      "お知らせ",
+      "とどまる",
+      "発見する",
+      "健康的な"
+    ],
+    "answer": "とどまる",
+    "example": "We decided to stay at a hotel near the beach."
+  },
+  {
+    "word": "still",
+    "choices": [
+      "まだ",
+      "目的",
+      "毎月の",
+      "準備ができて"
+    ],
+    "answer": "まだ",
+    "example": "It’s still raining outside."
+  },
+  {
+    "word": "succeed",
+    "choices": [
+      "接続",
+      "すでに",
+      "融資",
+      "成功する"
+    ],
+    "answer": "成功する",
+    "example": "He worked hard and finally succeeded."
+  },
+  {
+    "word": "success",
+    "choices": [
+      "成功",
+      "丁寧な",
+      "受け取る",
+      "患者"
+    ],
+    "answer": "成功",
+    "example": "Her success is due to her effort."
+  },
+  {
+    "word": "support",
+    "choices": [
+      "しばしば",
+      "支持する",
+      "毎月の",
+      "駐車する"
+    ],
+    "answer": "支持する",
+    "example": "I will always support your decision."
+  },
+  {
+    "word": "sure",
+    "choices": [
+      "進歩",
+      "確かな",
+      "しばしば",
+      "損失"
+    ],
+    "answer": "確かな",
+    "example": "I’m sure everything will be fine."
+  },
+  {
+    "word": "surprising",
+    "choices": [
+      "驚くべき",
+      "安全",
+      "話し合う",
+      "値段が高い"
+    ],
+    "answer": "驚くべき",
+    "example": "It was surprising to see him there."
+  },
+  {
+    "word": "task",
+    "choices": [
+      "小説",
+      "会社",
+      "任務",
+      "気付く"
+    ],
+    "answer": "任務",
+    "example": "Finishing the report is my main task today."
+  },
+  {
+    "word": "tax",
+    "choices": [
+      "個人の",
+      "また",
+      "効果",
+      "税"
+    ],
+    "answer": "税",
+    "example": "We have to pay tax on our income."
+  },
+  {
+    "word": "technology",
+    "choices": [
+      "技術",
+      "毎月の",
+      "説明",
+      "中止する"
+    ],
+    "answer": "技術",
+    "example": "Modern technology changes rapidly."
+  },
+  {
+    "word": "tourist",
+    "choices": [
+      "観光客",
+      "人を興奮させるような",
+      "事実",
+      "安全な"
+    ],
+    "answer": "観光客",
+    "example": "The tourist asked for directions."
+  },
+  {
+    "word": "traffic",
+    "choices": [
+      "交通量",
+      "映画",
+      "忙しい",
+      "決める"
+    ],
+    "answer": "交通量",
+    "example": "There was heavy traffic this morning."
+  },
+  {
+    "word": "true",
+    "choices": [
+      "少し",
+      "許可",
+      "本当の",
+      "中止する"
+    ],
+    "answer": "本当の",
+    "example": "It’s true that he speaks five languages."
+  },
+  {
+    "word": "useful",
+    "choices": [
+      "役に立つ",
+      "成長",
+      "説明",
+      "問題"
+    ],
+    "answer": "役に立つ",
+    "example": "This tool is very useful for cooking."
+  },
+  {
+    "word": "usually",
+    "choices": [
+      "普段",
+      "融資",
+      "患者",
+      "飾る"
+    ],
+    "answer": "普段",
+    "example": "I usually wake up at 7 a.m."
+  },
+  {
+    "word": "variety",
+    "choices": [
+      "小説",
+      "種類",
+      "講義",
+      "かなり"
+    ],
+    "answer": "種類",
+    "example": "The store sells a variety of goods."
+  },
+  {
+    "word": "visit",
+    "choices": [
+      "丁寧に",
+      "訪れる",
+      "忙しい",
+      "異なる"
+    ],
+    "answer": "訪れる",
+    "example": "We plan to visit our grandparents."
+  },
+  {
+    "word": "visitor",
+    "choices": [
+      "家具",
+      "さらなる",
+      "戻す",
+      "訪問者"
+    ],
+    "answer": "訪問者",
+    "example": "The museum had many visitors last week."
+  },
+  {
+    "word": "warm",
+    "choices": [
+      "忙しい",
+      "教育",
+      "温かい",
+      "目的"
+    ],
+    "answer": "温かい",
+    "example": "It’s warm and sunny today."
+  },
+  {
+    "word": "weather",
+    "choices": [
+      "天気",
+      "平均的な",
+      "かなり",
+      "映画"
+    ],
+    "answer": "天気",
+    "example": "The weather is perfect for a picnic."
+  },
+  {
+    "word": "welcome",
+    "choices": [
+      "予想",
+      "融資",
+      "誇りに思う",
+      "歓迎する"
+    ],
+    "answer": "歓迎する",
+    "example": "You are always welcome here."
+  },
+  {
+    "word": "whole",
+    "choices": [
+      "選ぶ",
+      "全体の",
+      "説明",
+      "できる"
+    ],
+    "answer": "全体の",
+    "example": "We spent the whole day at the park."
+  },
+  {
+    "word": "wide",
+    "choices": [
+      "実演",
+      "誇りに思う",
+      "広い",
+      "意見"
+    ],
+    "answer": "広い",
+    "example": "The street is very wide."
+  },
+  {
+    "word": "workshop",
+    "choices": [
+      "続く",
+      "公式の",
+      "事実",
+      "研修会"
+    ],
+    "answer": "研修会",
+    "example": "She attended a workshop on design."
+  },
+  {
+    "word": "worried",
+    "choices": [
+      "医療の",
+      "心配して",
+      "特に",
+      "美術館"
+    ],
+    "answer": "心配して",
+    "example": "I’m worried about the exam."
+  },
+  {
+    "word": "yet",
+    "choices": [
+      "実際",
+      "まだ",
+      "借りる",
+      "関心がある"
+    ],
+    "answer": "まだ",
+    "example": "He hasn’t finished his homework yet."
+  }
+]
